@@ -8,7 +8,7 @@ $packageArgs = @{
   fileType      = 'EXE'
   file          = $fileLocation
   softwareName  = 'Control Dashboard Pro*'
-  checksum      = '3b73f41fd63c64304b976638e7e044471f4c5e66ad510659b812190d4a54bba7'
+  checksum      = '4c540e516ccf012809fea7c218d01991c0f7415e149ba62730003a7b70ba16c1'
   checksumType  = 'sha256'
   silentArgs    = "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP- /LOG=`"$($env:TEMP)\$($env:chocolateyPackageName).$($env:chocolateyPackageVersion).InnoInstall.log`""
   validExitCodes= @(0,3010,1641)
