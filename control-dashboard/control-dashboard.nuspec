@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>control-dashboard</id>
+    <version>1.0</version>
+    <owners>Anthony Goubard</owners>
+
+    <title>Control Dashboard</title>
+    <authors>Japplis</authors>
+    <projectUrl>https://www.japplis.com/control-dashboard</projectUrl>
+    <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/control-dashboard</packageSourceUrl>
+    <iconUrl>https://www.japplis.com/control-dashboard/images/ControlDashboard256.png</iconUrl>
+    <copyright>2021 - 2023 Japplis</copyright>
+    <licenseUrl>https://www.japplis.com/control-dashboard/license.txt</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <tags>monitor monitoring network file schedule website alerting</tags>
+    <summary>Control Dashboard - Monitor and control dashboard</summary>
+    <description>Monitor resources such as files and websites dashboard</description>
+    <releaseNotes>https://www.japplis.com/control-dashboard/changes.txt</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
