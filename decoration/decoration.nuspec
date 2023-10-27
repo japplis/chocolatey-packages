@@ -2,22 +2,30 @@
 <!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
-    <id>decoration</id>
+    <id>@full.hyphen.name@</id>
     <version>5.1</version>
-    <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/decoration</packageSourceUrl>
     <owners>Anthony Goubard</owners>
 
     <title>Decoration</title>
     <authors>Japplis</authors>
-    <projectUrl>https://www.japplis.com/decoration</projectUrl>
+    <projectUrl>https://www.japplis.com/decoration/</projectUrl>
+    <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/decoration/</packageSourceUrl>
     <iconUrl>https://www.japplis.com/decoration/images/Decoration256.png</iconUrl>
-    <copyright>2007 - 2023 Japplis</copyright>
+    <copyright>© 2007 - 2023 Japplis</copyright>
     <licenseUrl>https://www.japplis.com/decoration/license.txt</licenseUrl>
-    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <tags>decoration image photo effect filter manipulation picture editor shadow mirror border frame</tags>
-    <summary>Decoration - Image Editor for Batch Processing</summary>
-    <description>Decoration is an image decorator. Add the images to your photoset, select the effects to apply among more than 100 and click on the start button.</description>
-    <releaseNotes>https://www.japplis.com/decoration/changes.txt</releaseNotes>
+    <summary>Image Editor for Batch Processing</summary>
+    <description>
+## Decoration - Image Editor for Batch Processing
+
+![Screenshot of Decoration](https://www.japplis.com/decoration/images/decoration-screenshot.png)
+
+Decoration is an image editor. Decoration applies effects to your images. 
+        You have an extensive set of effects (more than 100) including color border, gradient border, round corners, drop shadow, mirror, blur, reduce noise, tint, mosaic, superpose text, rotate, zoom, crop, button, brightness, contrast, gamma, glow, bend, sharpen, change transparency, kaleidoscope, oil, emboss, bump or edge. 
+        Images can be located on your hard disk, on a website, in the clipboard or your can create an empty one. More than 80 examples are included in the software.
+        Freemium with 100 free processed images per month then a watermark is applied to the images.</description>
+    <releaseNotes>See https://www.japplis.com/decoration/changes.txt</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
