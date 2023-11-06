@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>japplis-pastel</id>
+    <version>1.0</version>
+    <owners>Anthony Goubard</owners>
+
+    <title>Japplis Pastel</title>
+    <authors>Japplis</authors>
+    <projectUrl>https://www.japplis.com/decoration/pastel/</projectUrl>
+    <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/pastel/</packageSourceUrl>
+    <iconUrl>https://www.japplis.com/decoration/pastel/images/Pastel256.png</iconUrl>
+    <copyright>© 2011 - 2023 Japplis</copyright>
+    <licenseUrl>https://www.japplis.com/decoration/pastel/license.txt</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>pastel effects image photo frame filter</tags>
+    <summary>Image editor with multiple effects</summary>
+    <description>
+## Japplis Pastel - Image editor with multiple effects
+
+![Screenshot of Japplis Pastel](https://www.japplis.com/decoration/pastel/images/pastel-screenshot.png)
+
+Pastel lets you apply a filter on your images based on a set of about 70 filters. 
+        Filter categories are frame out, frame in, colors, 3D, artistic and grid.
+        Pastel will show a preview your image with the different filters of the category, so you can quickly select the one you prefer.
+        
+        Freemium with 30 free processed images per month then a watermark is applied to the images.</description>
+    <releaseNotes>See https://www.japplis.com/decoration/pastel/changes.txt</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

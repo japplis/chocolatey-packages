@@ -1,0 +1,21 @@
+From: https://www.japplis.com/decoration/pastel/license.txt
+
+LICENSE
+
+The Japplis Pastel application is a commercial software.
+
+You may not copy or distribute Japplis Pastel.
+
+Japplis grants you a non-transferable, non-exclusive right to use the software.
+You are not allowed to sell, license or sub-license to any third party.
+It is not allowed to use Japplis Pastel in any other software.
+
+THIS SOFTWARE IS PROVIDED "AS IS" AND WITHOUT WARRANTIES WHETHER EXPRESSED 
+OR IMPLIED. THE AUTHOR SHALL NOT BE LIABLE FOR ANY DAMAGE RESULTING OF THE
+USE OF JAPPLIS PASTEL.
+It's prohibited to decompile the code.
+
+Japplis Pastel is released with libraries which have other licenses.
+The list of the libraries and their licenses are listed at
+https://www.japplis.com/decoration/pastel/third-party-licenses.txt
+
