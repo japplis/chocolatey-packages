@@ -9,7 +9,7 @@
     <title>Japplis Pastel</title>
     <authors>Japplis</authors>
     <projectUrl>https://www.japplis.com/decoration/pastel/</projectUrl>
-    <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/pastel/</packageSourceUrl>
+    <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/japplis-pastel/</packageSourceUrl>
     <iconUrl>https://www.japplis.com/decoration/pastel/images/Pastel256.png</iconUrl>
     <copyright>© 2011 - 2023 Japplis</copyright>
     <licenseUrl>https://www.japplis.com/decoration/pastel/license.txt</licenseUrl>
