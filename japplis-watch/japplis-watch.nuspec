@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>japplis-watch</id>
+    <version>1.7</version>
+    <owners>Anthony Goubard</owners>
+
+    <title>Japplis Watch</title>
+    <authors>Japplis</authors>
+    <projectUrl>https://www.japplis.com/watch/</projectUrl>
+    <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/japplis-watch/</packageSourceUrl>
+    <iconUrl>https://www.japplis.com/watch/images/Watch256.png</iconUrl>
+    <copyright>© 2009 - 2023 Japplis</copyright>
+    <licenseUrl>https://www.japplis.com/watch/license.txt</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>watch clock timer stopwatch alarm calendar timezone countdown date time pomodoro HIIT</tags>
+    <summary>Clock / Timer / Stopwatch / Alarm / Time Zones / More</summary>
+    <description>
+## Japplis Watch - Clock / Timer / Stopwatch / Alarm / Time Zones / More
+
+![Screenshot of Japplis Watch](https://www.japplis.com/watch/images/watch-screenshot.png)
+
+Japplis Watch is a set of time utilities. 
+It contains a clock, timer, stopwatch, alarm, calendar, time zone, countdown to date, server time and pomodoro/HIIT.
+The window can remain always on top and be transparent.
+By double clicking on the time display, you can change the color, background, font, size and time format.
+For time zone, you can choose to use the current time or to set a specific time, whether it is local time or remote time. This can be handy for meetings.
+For the timer, you can specity to loop including pause for a moment before restarting.
+For the stopwatch, you can also record the time without stopping the stopwatch, often call split time.</description>
+    <releaseNotes>See https://www.japplis.com/watch/changes.txt</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
