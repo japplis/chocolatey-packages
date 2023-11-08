@@ -1,0 +1,18 @@
+VERIFICATION
+Package can be verified like this:
+
+1. Go to
+
+   x64: https://www.japplis.com/dictaphone/versions/Dictaphone-1.0.exe
+
+   to download the installer.
+
+2. You can use one of the following methods to obtain the checksum:
+   - Use powershell function 'Get-FileHash'
+   - Use Chocolatey utility 'checksum.exe'
+
+    checksum64: 3fce236c62e83a797cbf6c1bf1c307c207ab9c86bfa36286b6ceb424cc5a83b1
+
+   Checksums type: sha256
+
+File 'LICENSE.txt' is obtained from: https://www.japplis.com/dictaphone/license.txt

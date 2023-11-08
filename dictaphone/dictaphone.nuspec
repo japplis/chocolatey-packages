@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>dictaphone</id>
+    <version>1.0</version>
+    <owners>Anthony Goubard</owners>
+
+    <title>Dictaphone</title>
+    <authors>Japplis</authors>
+    <projectUrl>https://www.japplis.com/dictaphone/</projectUrl>
+    <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/dictaphone/</packageSourceUrl>
+    <iconUrl>https://www.japplis.com/dictaphone/images/Dictaphone256.png</iconUrl>
+    <copyright>© 2011 - 2023 Japplis</copyright>
+    <licenseUrl>https://www.japplis.com/dictaphone/license.txt</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>dictaphone audio recording voice microphone recorder memo</tags>
+    <summary>Voice and Audio Recorder</summary>
+    <description>
+## Dictaphone - Voice and Audio Recorder
+
+![Screenshot of Dictaphone](https://www.japplis.com/dictaphone/images/dictaphone-screenshot.png)
+
+Dictaphone is a free audio recorder for your computer. It can be used to record memos.
+        
+        You can select the audio source like a microphone, webcam or desktop audio and record it.
+        
+        You can save the audio as .wav or .mp3 and export it as HTML.
+        
+        The window can remain always on top and be translucent.</description>
+    <releaseNotes>See https://www.japplis.com/dictaphone/changes.txt</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
