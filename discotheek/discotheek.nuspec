@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>discotheek</id>
+    <version>1.4</version>
+    <owners>Anthony Goubard</owners>
+
+    <title>Discotheek</title>
+    <authors>Japplis</authors>
+    <projectUrl>https://www.japplis.com/discotheek/</projectUrl>
+    <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/discotheek/</packageSourceUrl>
+    <iconUrl>https://www.japplis.com/discotheek/images/Discotheek256.png</iconUrl>
+    <copyright>© 2011 - 2023 Japplis</copyright>
+    <licenseUrl>https://www.japplis.com/discotheek/license.txt</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>spotlight stroboscope flash disco stobe flashlight light</tags>
+    <summary>Use your monitor(s) as spotlight</summary>
+    <description>
+## Discotheek - Use your monitor(s) as spotlight
+
+![Screenshot of Discotheek](https://www.japplis.com/discotheek/images/discotheek-screenshot.png)
+
+Discotheek changes your screen into a night club spotlight.
+You can use your it to generate multicolor flashes.
+You can use your screen as stroboscope.
+You can use your screen as light (all white) or dark (all black).
+You can vary the speed and add or remove colors.
+You can also have soft transition where colors fade to the next color.
+Discotheek supports multiple screens.
+You can run Discotheek on Windows, Mac OS X, Linux</description>
+    <releaseNotes>See https://www.japplis.com/discotheek/changes.txt</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
