@@ -1,0 +1,18 @@
+VERIFICATION
+Package can be verified like this:
+
+1. Go to
+
+   x64: https://www.japplis.com/post-on-screen/pro/versions/PostOnScreenPro-1.1.exe
+
+   to download the installer.
+
+2. You can use one of the following methods to obtain the checksum:
+   - Use powershell function 'Get-FileHash'
+   - Use Chocolatey utility 'checksum.exe'
+
+    checksum64: 707dfc29a2f4af026f94cfdc73249c1acbe4a97c95e7d0fb9198569a428c35af
+
+   Checksums type: sha256
+
+File 'LICENSE.txt' is obtained from: https://www.japplis.com/post-on-screen/pro/license.txt

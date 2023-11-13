@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>post-on-screen-pro</id>
+    <version>1.1</version>
+    <owners>Anthony Goubard</owners>
+
+    <title>Post On Screen Pro</title>
+    <authors>Japplis</authors>
+    <projectUrl>https://www.japplis.com/post-on-screen/pro/</projectUrl>
+    <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/post-on-screen-pro/</packageSourceUrl>
+    <iconUrl>https://www.japplis.com/post-on-screen/pro/images/PostOnScreenPro256.png</iconUrl>
+    <copyright>© 2021 - 2023 Japplis</copyright>
+    <licenseUrl>https://www.japplis.com/post-on-screen/pro/license.txt</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>font text image photo on top above gradient transparent translucent</tags>
+    <summary>Display texts and images on top of your screens</summary>
+    <description>
+## Post On Screen Pro - Display texts and images on top of your screens
+
+![Screenshot of Post On Screen Pro](https://www.japplis.com/post-on-screen/pro/images/post-on-screen-pro-screenshot.png)
+
+Display text on top of your other windows. 
+        Select the text, font, size, color or gradient.
+        Define color, gradient, size of the text outline.
+        Possibility to define multiple text using the '|' separator and using the left/right keys to change the text.
+        Define the speed to rotate the gradient colors.
+        Define the transparency of the text and image.
+        It can also be used to show the current time and date.
+        
+        Shareware: Fully functional for one day, then limited features.</description>
+    <releaseNotes>See https://www.japplis.com/post-on-screen/pro/changes.txt</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
