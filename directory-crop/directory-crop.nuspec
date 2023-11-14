@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>directory-crop</id>
+    <version>1.0</version>
+    <owners>Anthony Goubard</owners>
+
+    <title>Directory Crop</title>
+    <authors>Japplis</authors>
+    <projectUrl>https://www.japplis.com/directory-crop/</projectUrl>
+    <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/directory-crop/</packageSourceUrl>
+    <iconUrl>https://www.japplis.com/directory-crop/images/DirectoryCrop256.png</iconUrl>
+    <copyright>© 2023 Japplis</copyright>
+    <licenseUrl>https://www.japplis.com/directory-crop/license.txt</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>crop ai photo image select stable-diffusion cut trim snip prun extra-arm bad-hands remove</tags>
+    <summary>Quickly crop images in directory</summary>
+    <description>
+## Directory Crop - Quickly crop images in directory
+
+![Screenshot of Directory Crop](https://www.japplis.com/directory-crop/images/directory-crop-screenshot.png)
+
+Directory Crop lets you quickly select the best images from a directory by either deleting bad ones or cropping the best part of ok images.
+        Deleting, cropping or navigating the images can be done from the mouse.
+        Directory Crop is ideal for getting the best of your generated AI images like from Stable Diffusion for example to remove extra arms or badly generated hands.
+      Fremium: 100 crops per month free, then a watermark is applied to the image.</description>
+    <releaseNotes>See https://www.japplis.com/directory-crop/changes.txt</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

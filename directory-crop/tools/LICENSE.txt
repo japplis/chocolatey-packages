@@ -1,0 +1,25 @@
+From: https://www.japplis.com/directory-crop/license.txt
+
+LICENSE
+
+The "Directory Crop" application is a shareware. 
+The first 100 images/photos crops are free. Afterward a watermark is added to the result.
+Go to https://www.japplis.com/directory-crop/pricing.html for more details.
+
+Japplis grants you a non-transferable, non-exclusive right to use the software.
+You are not allowed to sell, license or sub-license it to any third party.
+It is not allowed to use Directory Crop in any other software.
+
+You may copy or distribute the shareware version of Directory Crop provided
+that it's an unmodified and complete version, as downloaded from 
+https://www.japplis.com/directory-crop/
+
+To the extent permitted by law, THIS SOFTWARE IS PROVIDED "AS IS" AND WITHOUT 
+WARRANTIES WHETHER EXPRESSED OR IMPLIED. THE AUTHOR SHALL NOT BE LIABLE FOR 
+ANY DAMAGE RESULTING OF THE USE OF DIRECTORY CROP.
+It's prohibited to decompile the code.
+
+Directory Crop is released with libraries which have other licenses.
+The list of the libraries and their licenses are listed in
+Help -> About -> Licenses -> Third-Party libraries
+
