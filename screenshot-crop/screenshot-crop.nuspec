@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>screenshot-crop</id>
+    <version>1.0</version>
+    <owners>Anthony Goubard</owners>
+
+    <title>Screenshot Crop</title>
+    <authors>Japplis</authors>
+    <projectUrl>https://www.japplis.com/screenshot-crop/</projectUrl>
+    <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/screenshot-crop/</packageSourceUrl>
+    <iconUrl>https://www.japplis.com/screenshot-crop/images/ScreenshotCrop256.png</iconUrl>
+    <copyright>© 2022 - 2023 Japplis</copyright>
+    <licenseUrl>https://www.japplis.com/screenshot-crop/license.txt</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>screenshot crop clipboard image capture region cut snip trim remove</tags>
+    <summary>Quickly crop screenshots</summary>
+    <description>
+## Screenshot Crop - Quickly crop screenshots
+
+![Screenshot of Screenshot Crop](https://www.japplis.com/screenshot-crop/images/screenshot-crop-screenshot.png)
+
+Screenshot Crop detects when an image is captured in the clipboard and will show the clipboard image content for cropping.
+        Using the guided lines, easily select the part(s) of the image you want to keep. Once the image is cropped, Screenshot Crop is minimized so that you can continue on the software you took the screenshot from.
+        Fremium: 30 crops per month free, then a watermark is applied to the image.</description>
+    <releaseNotes>See https://www.japplis.com/screenshot-crop/changes.txt</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
