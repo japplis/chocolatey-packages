@@ -1,0 +1,18 @@
+VERIFICATION
+Package can be verified like this:
+
+1. Go to
+
+   x64: https://www.japplis.com/toolbox/versions/Toolbox-5.6.exe
+
+   to download the installer.
+
+2. You can use one of the following methods to obtain the checksum:
+   - Use powershell function 'Get-FileHash'
+   - Use Chocolatey utility 'checksum.exe'
+
+    checksum64: 9ea55bc87fb3e5ff722ed8af5a760a89986cc5454102be3e964b61c78e275a96
+
+   Checksums type: sha256
+
+File 'LICENSE.txt' is obtained from: https://www.japplis.com/toolbox/license.txt
