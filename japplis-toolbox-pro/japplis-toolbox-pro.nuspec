@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>japplis-toolbox-pro</id>
+    <version>5.6</version>
+    <owners>Anthony Goubard</owners>
+
+    <title>Japplis Toolbox Pro</title>
+    <authors>Japplis</authors>
+    <projectUrl>https://www.japplis.com/toolbox/pro/</projectUrl>
+    <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/japplis-toolbox-pro/</packageSourceUrl>
+    <iconUrl>https://www.japplis.com/toolbox/pro/images/ToolboxPro256.png</iconUrl>
+    <copyright>© 2009 - 2023 Japplis</copyright>
+    <licenseUrl>https://www.japplis.com/toolbox/pro/license.txt</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>text utility url encoding decoding base64 md5 sha Java regular expressions codec macro file</tags>
+    <summary>No-code text manipulation</summary>
+    <description>
+## Japplis Toolbox Pro - No-code text manipulation
+
+![Screenshot of Japplis Toolbox Pro](https://www.japplis.com/toolbox/pro/images/toolbox-pro-screenshot.png)
+
+Japplis Toolbox Pro is a compilation of text utilities in one application.
+        It can encode and decode URL, Base64, Hex, ROT13, ROT47, Java unicode, Volapuk.
+        It can convert numbers from/to binary, octal, decimal, hexadecimal and to date.
+        It gives you text information such as character count, word count, line count, hash code, MD5 or SHA.
+        You can get Java system properties, environment variables or Swing default values.
+        It finds regular expressions in text and in files, even gz compressed.
+        It can sort lines, reverse lines, shuffle lines, add number to lines, delete duplicates, prefix lines, trim spaces or extract words.
+        It can combine multiple tools in a macro.
+        Input from text, files, compressed files, clipboard and websites.
+        Output to text, files or clipboard
+        It runs on Windows, Mac OS X and Linux.
+      
+        Shareware: Fully functional for one day, then limited features.</description>
+    <releaseNotes>See https://www.japplis.com/toolbox/pro/changes.txt</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
