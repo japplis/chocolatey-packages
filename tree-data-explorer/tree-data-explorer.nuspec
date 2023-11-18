@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>tree-data-explorer</id>
+    <version>1.0</version>
+    <owners>Anthony Goubard</owners>
+
+    <title>Tree Data Explorer</title>
+    <authors>Japplis</authors>
+    <projectUrl>https://www.japplis.com/tree-data-explorer/</projectUrl>
+    <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/tree-data-explorer/</packageSourceUrl>
+    <iconUrl>https://www.japplis.com/tree-data-explorer/images/TreeDataExplorer256.png</iconUrl>
+    <copyright>© 2023 Japplis</copyright>
+    <licenseUrl>https://www.japplis.com/tree-data-explorer/license.txt</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>xml json yaml yml breadcrumb partial viewer explorer</tags>
+    <summary>View XML, Yaml, JSON as tree</summary>
+    <description>
+## Tree Data Explorer - View XML, Yaml, JSON as tree
+
+![Screenshot of Tree Data Explorer](https://www.japplis.com/tree-data-explorer/images/tree-data-explorer-screenshot.png)
+
+Explorer for XML, Yaml or JSON data. 
+        Navigate the tree structure.
+        Including syntax highlight for XML, Yaml and JSON.
+        Open the data from a file or paste the text from the clipboard. 
+        Navigate the tree using breadcrumbs.
+        You can have the window always on top and transparent.
+        Tree Data Explorer can also run inside an IDE like IntelliJ IDEA, Android Studio, PyCharm, Eclipse and NetBeans using the Applet Runner plugin.</description>
+    <releaseNotes>See https://www.japplis.com/tree-data-explorer/changes.txt</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
