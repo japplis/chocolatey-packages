@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>japplis-clipboard-history</id>
+    <version>1.0</version>
+    <owners>Anthony Goubard</owners>
+
+    <title>Japplis Clipboard History</title>
+    <authors>Japplis</authors>
+    <projectUrl>https://www.japplis.com/clipboard-history/</projectUrl>
+    <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/japplis-clipboard-history/</packageSourceUrl>
+    <iconUrl>https://www.japplis.com/clipboard-history/images/ClipboardHistory256.png</iconUrl>
+    <copyright>© 2023 Japplis</copyright>
+    <licenseUrl>https://www.japplis.com/clipboard-history/license.txt</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>copy paste clipboard history</tags>
+    <summary>Show Text Clipboard History</summary>
+    <description>
+## Japplis Clipboard History - Show Text Clipboard History
+
+![Screenshot of Japplis Clipboard History](https://www.japplis.com/clipboard-history/images/clipboard-history-screenshot.png)
+
+Clipboard History is a freeware that remembers the text copied in the clipboard from other applications. 
+        You can see the list of previous copied text and put them back in the clipboard.
+      It can also run always on top, translucent or inside an IDE such as IntelliJ IDEA, Android Studio, Eclipse or NetBeans.</description>
+    <releaseNotes>See https://www.japplis.com/clipboard-history/changes.txt</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
