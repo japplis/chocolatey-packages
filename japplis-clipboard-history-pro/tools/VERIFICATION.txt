@@ -1,0 +1,18 @@
+VERIFICATION
+Package can be verified like this:
+
+1. Go to
+
+   x64: https://www.japplis.com/clipboard-history/pro/versions/ClipboardHistoryPro-1.0.exe
+
+   to download the installer.
+
+2. You can use one of the following methods to obtain the checksum:
+   - Use powershell function 'Get-FileHash'
+   - Use Chocolatey utility 'checksum.exe'
+
+    checksum64: 03e9a73f870b5ad6ad89c9d64c2d1f97ce733205894ca31562dedde27d70b95a
+
+   Checksums type: sha256
+
+File 'LICENSE.txt' is obtained from: https://www.japplis.com/clipboard-history/pro/license.txt
