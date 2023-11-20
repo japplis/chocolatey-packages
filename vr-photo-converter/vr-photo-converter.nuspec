@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>vr-photo-converter</id>
+    <version>2.1</version>
+    <owners>Anthony Goubard</owners>
+
+    <title>VR Photo Converter</title>
+    <authors>Japplis</authors>
+    <projectUrl>https://www.japplis.com/virtual-reality/vr-photo-converter/</projectUrl>
+    <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/vr-photo-converter/</packageSourceUrl>
+    <iconUrl>https://www.japplis.com/virtual-reality/vr-photo-converter/images/VRPhotoConverter256.png</iconUrl>
+    <copyright>© 2019 - 2023 Japplis</copyright>
+    <licenseUrl>https://www.japplis.com/virtual-reality/vr-photo-converter/license.txt</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>VR180 photo converter VR 180</tags>
+    <summary>Convert VR180 images to one image</summary>
+    <description>
+## VR Photo Converter - Convert VR180 images to one image
+
+![Screenshot of VR Photo Converter](https://www.japplis.com/virtual-reality/vr-photo-converter/images/vr-photo-converter-screenshot.png)
+
+VR Photo Converter creates a stereo image from VR180 photos. 
+        It extracts the image of the right eye from a Google VR180 format photo and puts it next to the left eye photo. 
+        It has the options of the left / right eye photo position, resolution, output format, field of view, output folder and output file name. 
+        VR Photo Converter is availalble for Windows, Mac OS X and Linux.
+        
+        Freemium with 100 free processed images per month then a watermark is applied to the images.</description>
+    <releaseNotes>See https://www.japplis.com/virtual-reality/vr-photo-converter/changes.txt</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
