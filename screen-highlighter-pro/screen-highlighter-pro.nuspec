@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>screen-highlighter-pro</id>
+    <version>1.0</version>
+    <owners>Anthony Goubard</owners>
+
+    <title>Screen Highlighter Pro</title>
+    <authors>Japplis</authors>
+    <projectUrl>https://www.japplis.com/screen-highlighter/pro/</projectUrl>
+    <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/screen-highlighter-pro/</packageSourceUrl>
+    <iconUrl>https://www.japplis.com/screen-highlighter/pro/images/ScreenHighlighterPro256.png</iconUrl>
+    <copyright>© 2020 - 2023 Japplis</copyright>
+    <licenseUrl>https://www.japplis.com/screen-highlighter/pro/license.txt</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>screen overlay presentation hide hiding superpose highlight</tags>
+    <summary>Highlight parts of the screen</summary>
+    <description>
+## Screen Highlighter Pro - Highlight parts of the screen
+
+![Screenshot of Screen Highlighter Pro](https://www.japplis.com/screen-highlighter/pro/images/screen-highlighter-pro-screenshot.png)
+
+Screen Highlighter allows to highlight a part of the screen by partially hiding the other parts. 
+        A shape (horizontal bar, vertical bar, rectangle, ellipse, point) is visible and the rest is partially hidden. The visible and obfuscated part will follow the position of the mouse pointer. It's possible to have it at multiple fix positions.
+        You can select the height, width, color and the opacity of the part to hide.
+        Shortcuts to take a screenshot to the clipboard or a file.
+        Includes measurement tool for shape size: width, height and aspect ratio.
+        Most of the settings can be controlled with the keyboard or the mouse.
+        
+        Shareware: Fully functional for one day, then limited features.</description>
+    <releaseNotes>See https://www.japplis.com/screen-highlighter/pro/changes.txt</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
