@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>screen-highlighter</id>
+    <version>1.0</version>
+    <owners>Anthony Goubard</owners>
+
+    <title>Screen Highlighter</title>
+    <authors>Japplis</authors>
+    <projectUrl>https://www.japplis.com/screen-highlighter/</projectUrl>
+    <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/screen-highlighter/</packageSourceUrl>
+    <iconUrl>https://www.japplis.com/screen-highlighter/images/ScreenHighlighter256.png</iconUrl>
+    <copyright>© 2020 - 2023 Japplis</copyright>
+    <licenseUrl>https://www.japplis.com/screen-highlighter/license.txt</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>screen overlay presentation hide hiding superpose highlight</tags>
+    <summary>Highlight parts of the screen</summary>
+    <description>
+## Screen Highlighter - Highlight parts of the screen
+
+![Screenshot of Screen Highlighter](https://www.japplis.com/screen-highlighter/images/screen-highlighter-screenshot.png)
+
+Screen Highlighter allows to highlight a part of the screen by partially hiding the other parts. 
+        A horizontal bar is visible and the rest is partially hidden. The horizontal bar will follow the position of the mouse pointer.
+        You can select the height of the horizontal bar and the opacity of the part to hide.
+        Most of the settings can be controlled with the keyboard or the mouse.</description>
+    <releaseNotes>See https://www.japplis.com/screen-highlighter/changes.txt</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
