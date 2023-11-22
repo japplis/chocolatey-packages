@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>japplis-website-optimizer</id>
+    <version>4.1</version>
+    <owners>Anthony Goubard</owners>
+
+    <title>Japplis Website Optimizer</title>
+    <authors>Japplis</authors>
+    <projectUrl>https://www.japplis.com/website-optimizer/</projectUrl>
+    <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/japplis-website-optimizer/</packageSourceUrl>
+    <iconUrl>https://www.japplis.com/website-optimizer/images/WebsiteOptimizer256.png</iconUrl>
+    <copyright>© 2008 - 2023 Japplis</copyright>
+    <licenseUrl>https://www.japplis.com/website-optimizer/license.txt</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>Website optimizer optimiser web site compress html css javascript optimisation optimization</tags>
+    <summary>Automate and reduce the size of your web site</summary>
+    <description>
+## Japplis Website Optimizer - Automate and reduce the size of your web site
+
+![Screenshot of Japplis Website Optimizer](https://www.japplis.com/website-optimizer/images/website-optimizer-screenshot.png)
+
+Japplis Website Optimizer is a tool that reduces the size of your web pages, css and Javascript.
+
+        Using several techniques, it can reduce the size of your HTML pages, css and Javascript by more than 50 %.
+        This will not only make your website faster but also save bandwidth.
+
+        Japplis Website Optimizer can also add the height, width and alt attribute to the images if missing.
+        It also contains a PHP optimization part.
+        It can also generate a .htaccess file to improve the caching of the website Apache Server.
+        It can detect potential invalid links to other webpages or images. 
+
+        Japplis Website Optimizer is platform independent : runs on Windows, Linux and Mac OS
+        Fremium: 1,000 free processed files per month.</description>
+    <releaseNotes>See https://www.japplis.com/website-optimizer/changes.txt</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
