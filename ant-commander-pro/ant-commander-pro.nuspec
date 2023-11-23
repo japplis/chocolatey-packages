@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>ant-commander-pro</id>
+    <version>4.3</version>
+    <owners>Anthony Goubard</owners>
+
+    <title>Ant Commander Pro</title>
+    <authors>Japplis</authors>
+    <projectUrl>https://www.antcommander.com/</projectUrl>
+    <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/ant-commander-pro/</packageSourceUrl>
+    <iconUrl>https://www.antcommander.com/images/AntCommanderPro256.png</iconUrl>
+    <copyright>© 2004 - 2023 Japplis</copyright>
+    <licenseUrl>https://www.antcommander.com/license.txt</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>file-manager Java file manager management disk ftp</tags>
+    <summary>Professional file manager</summary>
+    <description>
+## Ant Commander Pro - Professional file manager
+
+![Screenshot of Ant Commander Pro](https://www.antcommander.com/images/ant-commander-pro-screenshot.png)
+
+Ant Commander is a powerful file manager.
+
+Several file systems are suported: file, zip, ftp, webdav, ftps, sftp, lst, tar.gz, etc.
+
+Several kinds of panels are available: directory table, directory tree, text editor, image viewer, command line, etc.
+
+Several file operation are supported: copy, move, delete, multiple rename, create directory, zip, unzip, etc.
+
+And more: skinnable, OS independent, bookmarks, historic, a lot of file operations, etc.
+
+Free to try for one day.</description>
+    <releaseNotes>See https://www.antcommander.com/changes.txt</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
