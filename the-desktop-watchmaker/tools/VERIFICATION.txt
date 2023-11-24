@@ -1,0 +1,18 @@
+VERIFICATION
+Package can be verified like this:
+
+1. Go to
+
+   x64: https://www.japplis.com/desktop-watchmaker/versions/DesktopWatchmaker-3.1.exe
+
+   to download the installer.
+
+2. You can use one of the following methods to obtain the checksum:
+   - Use powershell function 'Get-FileHash'
+   - Use Chocolatey utility 'checksum.exe'
+
+    checksum64: 9bf2d03aec7cbfec561a69b01df308192507c5b4ab6ef26b93319c2672537016
+
+   Checksums type: sha256
+
+File 'LICENSE.txt' is obtained from: https://www.japplis.com/desktop-watchmaker/license.txt
