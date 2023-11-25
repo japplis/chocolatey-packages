@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>poster-font-light</id>
+    <version>1.0</version>
+    <owners>Anthony Goubard</owners>
+
+    <title>Poster Font Light</title>
+    <authors>Japplis</authors>
+    <projectUrl>https://www.japplis.com/poster-font/light/</projectUrl>
+    <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/poster-font-light/</packageSourceUrl>
+    <iconUrl>https://www.japplis.com/poster-font/light/images/PosterFontLight256.png</iconUrl>
+    <copyright>© 2011 - 2023 Japplis</copyright>
+    <licenseUrl>https://www.japplis.com/poster-font/light/license.txt</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>font text title presentation poster</tags>
+    <summary>Easily create beautiful titles</summary>
+    <description>
+## Poster Font Light - Easily create beautiful titles
+
+![Screenshot of Poster Font Light](https://www.japplis.com/poster-font/light/images/poster-font-light-screenshot.png)
+
+Create beautiful titles for your professional presentations, your website or your video thumbnails. 
+      * Select effect from the more than 100 templates
+      * Support for multiple text with left/right navigation
+      * Show the text with effect on top of other windows
+      
+      Freemium with 30 free created text each month then a watermark is applied to the images.</description>
+    <releaseNotes>See https://www.japplis.com/poster-font/light/changes.txt</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
