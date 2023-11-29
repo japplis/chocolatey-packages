@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>applet-runner-pro</id>
+    <version>2.7</version>
+    <owners>Anthony Goubard</owners>
+
+    <title>Applet Runner Pro</title>
+    <authors>Japplis</authors>
+    <projectUrl>https://www.japplis.com/applet-runner/pro/</projectUrl>
+    <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/applet-runner-pro/</packageSourceUrl>
+    <iconUrl>https://www.japplis.com/applet-runner/pro/images/AppletRunnerPro256.png</iconUrl>
+    <copyright>© 2020 - 2023 Japplis</copyright>
+    <licenseUrl>https://www.japplis.com/applet-runner/pro/license.txt</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>applet runner viewer Java online</tags>
+    <summary>Run Java Applets</summary>
+    <description>
+## Applet Runner Pro - Run Java Applets
+
+![Screenshot of Applet Runner Pro](https://www.japplis.com/applet-runner/pro/images/applet-runner-pro-screenshot.png)
+
+Applet Runner let you start Java applets as standalone application. Java applet are software that are downloaded and execute by providing a location like a link or local file.
+Applet Runner includes many applets in the bookmarks:
+* Office
+ - PDF Viewer
+ - Microsoft Word Viewer (docx)
+ - Excel & CSV Viewer (xlsx, xls, cvs)
+ - Powerpoint Viewer (pptx)
+ - MP3 Player (mp3, ogg)
+ - Video Player (mp4, mkv, mp3, avi, ...)
+* Text Utilities
+ - Clipboard History Pro
+ - JSON Viewer
+ - XML Viewer
+ - YAML Viewer
+ - Japplis Toolbox: More than 50 text and Java utilities
+ - Encoding / Decoding: URL, Base64, XML, Query parameters, ...
+ - Lines: Sort, Reverse, Shuffle, Number, Delete duplicates, Trim spaces, Extract words, Join, Sort by length, Remove empty, Delete 1 out of 2, Count occurrences, Format HTML/XML, Format JSON
+ - Pattern: Prefix, Suffix, Keep regular expression (regexp), Remove regexp, Keep lines, Remove lines, Split regexp, Contains regexp, Replace regexp, To lowercase regexp, To uppercase regexp, Date to long, Long to date
+ - Text Characteristics: Character count, Word count, Line count, XML validate, Hash code, MD2, MD5, ...
+ - Properties: Java system properties, Java Swing UI Defaults, Computer environment properties
+ - Characters
+* JLearnIt: a multilingual dictionary that helps you learn languages.
+ - English, French, Spanish, Dutch, German, Italian, Hebrew, Portuguese, Swedish, Danish, Norwegian, Hungarian, Russian, Latin and Czech
+ - World countries, Elements Table, Morse Code and NATO alphabet, United States, Départements français, English/German/Dutch Irregular Verbs.
+* Japplis Watch: 9 time utilities
+ - Clock, Calendar, Alarm clock, Stopwatch, Timer, Server clock, Time Zones, Countdown until Date, Pomodoro / HIIT
+* Rollerboy 2 game
+* Tetris game
+* VNC Client for remote desktop or mobile phone mirroring</description>
+    <releaseNotes>See https://www.japplis.com/applet-runner/pro/changes.txt</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
