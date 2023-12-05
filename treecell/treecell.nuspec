@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>treecell</id>
+    <version>1.0</version>
+    <owners>Anthony Goubard</owners>
+
+    <title>Treecell</title>
+    <authors>Japplis</authors>
+    <projectUrl>https://www.japplis.com/treecell/</projectUrl>
+    <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/treecell/</packageSourceUrl>
+    <iconUrl>https://www.japplis.com/treecell/images/Treecell256.png</iconUrl>
+    <copyright>© 2022 - 2023 Japplis</copyright>
+    <licenseUrl>https://www.japplis.com/treecell/license.txt</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>excel spreadsheet sheet tree hierarchy expand collapse pivot confidential</tags>
+    <summary>View spreadsheets as hierarchy</summary>
+    <description>
+## Treecell - View spreadsheets as hierarchy
+
+![Screenshot of Treecell](https://www.japplis.com/treecell/images/treecell-screenshot.png)
+
+Treecell is a software that represents your data from Excel or CSV from a table to a navigatable tree. 
+        You can expand and collapse same value to easily find data.
+        Rearrange the column orders and which columns to show or hide.
+        By default all is collapsed, so it's easier to show data only from a specific group and leave the other data confidential/hidden.
+        You can also show statistics on selected nodes.
+        Show the window always on top and translucent.
+        
+        Commercial: Free to try for one day.</description>
+    <releaseNotes>See https://www.japplis.com/treecell/changes.txt</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
