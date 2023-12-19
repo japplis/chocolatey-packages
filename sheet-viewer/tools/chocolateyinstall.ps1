@@ -8,7 +8,7 @@ $packageArgs = @{
   fileType      = 'EXE'
   file          = $fileLocation
   softwareName  = 'Sheet Viewer*'
-  checksum      = '1ac4cba61d278c175138624b175e62c37d3451b2b63116ba9c4469418761b759'
+  checksum      = '93e984eea356b76a4d98dec7b97de86ea0f3b3c05dc5d0936ab0377f7acfb6e9'
   checksumType  = 'sha256'
   silentArgs    = "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP- /LOG=`"$($env:TEMP)\$($env:chocolateyPackageName).$($env:chocolateyPackageVersion).InnoInstall.log`""
   validExitCodes= @(0,3010,1641)
