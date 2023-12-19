@@ -8,7 +8,7 @@ $packageArgs = @{
   fileType      = 'EXE'
   file          = $fileLocation
   softwareName  = 'Treecell*'
-  checksum      = '9ece1c887e4b17bea48be4bea75b2f8f4f62d0002c917b06da4b3cc99b7eda9f'
+  checksum      = 'a3f0880f83127256dcc5da5a6f3eb80355d6d68eed44a86cb76b6a9bcf787442'
   checksumType  = 'sha256'
   silentArgs    = "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP- /LOG=`"$($env:TEMP)\$($env:chocolateyPackageName).$($env:chocolateyPackageVersion).InnoInstall.log`""
   validExitCodes= @(0,3010,1641)

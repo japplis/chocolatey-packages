@@ -4,7 +4,13 @@ LICENSE
 
 Treecell is a commercial software.
 
-You need a user license per user of the software. The same user license can
+You may copy or distribute Treecell provided
+that it's an unmodified and complete version, as downloaded from
+https://www.japplis.com/treecell/ or from Chocolatey package manager or from the
+Mac App Store or from Microsoft Store.
+
+After the trial period or the free usage allowed per month, you need a 
+user license per user of the software. The same user license can
 be used on 2 computers/VMs if the same physical person is the main user of
 the software on both computers/VMs. For example having the software on a 
 professional and a personal computer. Also one user license can be used by 
