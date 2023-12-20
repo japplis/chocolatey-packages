@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>decoration</id>
-    <version>5.1</version>
+    <version>5.2</version>
     <owners>Anthony Goubard</owners>
 
     <title>Decoration</title>
@@ -14,7 +14,7 @@
     <copyright>© 2007 - 2023 Japplis</copyright>
     <licenseUrl>https://www.japplis.com/decoration/license.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <tags>decoration image photo effect filter manipulation picture editor shadow mirror border frame</tags>
+    <tags>decoration image photo effect filter batch manipulation picture editor shadow mirror border frame</tags>
     <summary>Image Editor for Batch Processing</summary>
     <description>
 ## Decoration - Image Editor for Batch Processing
