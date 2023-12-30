@@ -3,7 +3,7 @@ Package can be verified like this:
 
 1. Go to
 
-   x64: https://www.antcommander.com/versions/AntCommanderPro-4.3.exe
+   x64: https://www.antcommander.com/versions/AntCommanderPro-4.4.exe
 
    to download the installer.
 
@@ -11,7 +11,7 @@ Package can be verified like this:
    - Use powershell function 'Get-FileHash'
    - Use Chocolatey utility 'checksum.exe'
 
-    checksum64: c1ecf7a4d7b081ffe5fcb28fefbb12e88f02d60652389ef691a390cd31d6dbe8
+    checksum64: ddfe01a39206affad33b11680e9e2b40ed0b12f6ab3bd5db68b7f75cac2d17d9
 
    Checksums type: sha256
 

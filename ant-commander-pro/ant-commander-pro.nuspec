@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>ant-commander-pro</id>
-    <version>4.3</version>
+    <version>4.4</version>
     <owners>Anthony Goubard</owners>
 
     <title>Ant Commander Pro</title>
@@ -14,7 +14,7 @@
     <copyright>© 2004 - 2023 Japplis</copyright>
     <licenseUrl>https://www.antcommander.com/license.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <tags>file-manager Java file manager management disk ftp</tags>
+    <tags>file manager Java file manager management disk sftp explorer finder directory folder</tags>
     <summary>Professional file manager</summary>
     <description>
 ## Ant Commander Pro - Professional file manager
