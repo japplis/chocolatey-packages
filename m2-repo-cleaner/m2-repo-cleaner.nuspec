@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>m2-repo-cleaner</id>
+    <version>1.0-beta2</version>
+    <owners>Anthony Goubard</owners>
+
+    <title>M2 Repo Cleaner</title>
+    <authors>Japplis</authors>
+    <projectUrl>https://www.antcommander.com/m2-repo-cleaner/</projectUrl>
+    <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/m2-repo-cleaner/</packageSourceUrl>
+    <iconUrl>https://www.antcommander.com/m2-repo-cleaner/images/M2RepoCleaner256.png</iconUrl>
+    <copyright>© 2022 - 2024 Japplis</copyright>
+    <licenseUrl>https://www.antcommander.com/m2-repo-cleaner/license.txt</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>maven m2 repository repo cleaner clean delete snapshots gradle clean up prune</tags>
+    <summary>Clean old files in Maven local repository</summary>
+    <description>
+## M2 Repo Cleaner - Clean old files in Maven local repository
+
+![Screenshot of M2 Repo Cleaner](https://www.antcommander.com/m2-repo-cleaner/images/m2-repo-cleaner-screenshot.png)
+
+This tool will delete files that are often no longer used from your local Maven repository.
+        
+It will detect old maven version of libraries installed and old snapshots files to suggest to delete them and free space from your hard disk.
+
+These files are often there when using Apache Maven or Gradle build tools.</description>
+    <releaseNotes>See https://www.antcommander.com/m2-repo-cleaner/changes.txt</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
