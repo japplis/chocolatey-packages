@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>ant-commander-pro</id>
-    <version>4.4</version>
+    <version>4.5</version>
     <owners>Anthony Goubard</owners>
 
     <title>Ant Commander Pro</title>
@@ -11,7 +11,7 @@
     <projectUrl>https://www.antcommander.com/</projectUrl>
     <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/ant-commander-pro/</packageSourceUrl>
     <iconUrl>https://www.antcommander.com/images/AntCommanderPro256.png</iconUrl>
-    <copyright>© 2004 - 2023 Japplis</copyright>
+    <copyright>© 2004 - 2024 Japplis</copyright>
     <licenseUrl>https://www.antcommander.com/license.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <tags>file manager Java file manager management disk sftp explorer finder directory folder</tags>
