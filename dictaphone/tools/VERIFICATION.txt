@@ -3,7 +3,7 @@ Package can be verified like this:
 
 1. Go to
 
-   x64: https://www.japplis.com/dictaphone/versions/Dictaphone-1.0.exe
+   x64: https://www.japplis.com/dictaphone/versions/Dictaphone-1.1.exe
 
    to download the installer.
 
@@ -11,7 +11,7 @@ Package can be verified like this:
    - Use powershell function 'Get-FileHash'
    - Use Chocolatey utility 'checksum.exe'
 
-    checksum64: 3fce236c62e83a797cbf6c1bf1c307c207ab9c86bfa36286b6ceb424cc5a83b1
+    checksum64: 883f20f91fbfe0265b307ac50481adb086f337f8aca38a4972fe51c96e965a58
 
    Checksums type: sha256
 
