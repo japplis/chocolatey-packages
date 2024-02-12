@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>m2-repo-cleaner</id>
-    <version>1.0-beta2</version>
+    <version>1.0</version>
     <owners>Anthony Goubard</owners>
 
     <title>M2 Repo Cleaner</title>

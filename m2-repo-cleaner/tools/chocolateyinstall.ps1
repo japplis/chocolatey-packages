@@ -8,7 +8,7 @@ $packageArgs = @{
   fileType      = 'EXE'
   file          = $fileLocation
   softwareName  = 'M2 Repo Cleaner*'
-  checksum      = '0bedbeff5499f907d1627ff49241f3bfc93f806db0732af0fe3ceb1c0ebe4da8'
+  checksum      = 'a05ca11eaca247d01700832f35c0ba56ac1b3d361d3dcc239e7321173571eeec'
   checksumType  = 'sha256'
   silentArgs    = "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP- /LOG=`"$($env:TEMP)\$($env:chocolateyPackageName).$($env:chocolateyPackageVersion).InnoInstall.log`""
   validExitCodes= @(0,3010,1641)
