@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>the-desktop-watchmaker</id>
-    <version>3.1</version>
+    <version>3.2</version>
     <owners>Anthony Goubard</owners>
 
     <title>The Desktop Watchmaker</title>
@@ -11,10 +11,10 @@
     <projectUrl>https://www.japplis.com/desktop-watchmaker/</projectUrl>
     <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/the-desktop-watchmaker/</packageSourceUrl>
     <iconUrl>https://www.japplis.com/desktop-watchmaker/images/DesktopWatchmaker256.png</iconUrl>
-    <copyright>© 2016 - 2023 Japplis</copyright>
+    <copyright>© 2016 - 2024 Japplis</copyright>
     <licenseUrl>https://www.japplis.com/desktop-watchmaker/license.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <tags>desktop-watchmaker watchmaker watch face design editor smart-watch desktop</tags>
+    <tags>desktop watchmaker watchmaker watch face design editor smartwatch desktop</tags>
     <summary>Desktop software to create and adapt WatchMaker watch faces</summary>
     <description>
 ## The Desktop Watchmaker - Desktop software to create and adapt WatchMaker watch faces
