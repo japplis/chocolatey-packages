@@ -6,7 +6,8 @@ Discotheek is freeware.
 
 You may copy or distribute Discotheek provided
 that it's an unmodified and complete version, as downloaded from
-https://www.japplis.com/discotheek/
+https://www.japplis.com/discotheek/ or from Chocolatey package manager or from the
+Mac App Store or from Microsoft Store.
 
 It is not allowed to use Discotheek or its data in a SaaS (Software as a
 Service) or as a library of another software.

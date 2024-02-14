@@ -8,7 +8,7 @@ $packageArgs = @{
   fileType      = 'EXE'
   file          = $fileLocation
   softwareName  = 'Discotheek*'
-  checksum      = 'd79a2799cfddf38222ed4546d320b092e3f4147f9db78e01665715cb26b659d6'
+  checksum      = '1ad0be339a04441fbafcebe23fc7004ccf541ae5be632837d28272fbf93f61c1'
   checksumType  = 'sha256'
   silentArgs    = "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP- /LOG=`"$($env:TEMP)\$($env:chocolateyPackageName).$($env:chocolateyPackageVersion).InnoInstall.log`""
   validExitCodes= @(0,3010,1641)

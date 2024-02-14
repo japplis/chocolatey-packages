@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>discotheek</id>
-    <version>1.4</version>
+    <version>1.5</version>
     <owners>Anthony Goubard</owners>
 
     <title>Discotheek</title>
@@ -11,10 +11,10 @@
     <projectUrl>https://www.japplis.com/discotheek/</projectUrl>
     <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/discotheek/</packageSourceUrl>
     <iconUrl>https://www.japplis.com/discotheek/images/Discotheek256.png</iconUrl>
-    <copyright>© 2011 - 2023 Japplis</copyright>
+    <copyright>© 2011 - 2024 Japplis</copyright>
     <licenseUrl>https://www.japplis.com/discotheek/license.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <tags>spotlight stroboscope flash disco stobe flashlight light</tags>
+    <tags>spotlight stroboscope flash disco stobe light monitor screen</tags>
     <summary>Use your monitor(s) as spotlight</summary>
     <description>
 ## Discotheek - Use your monitor(s) as spotlight
@@ -28,7 +28,7 @@ You can use your screen as light (all white) or dark (all black).
 You can vary the speed and add or remove colors.
 You can also have soft transition where colors fade to the next color.
 Discotheek supports multiple screens.
-You can run Discotheek on Windows, Mac OS X, Linux</description>
+You can run Discotheek on Windows, macOS, Linux</description>
     <releaseNotes>See https://www.japplis.com/discotheek/changes.txt</releaseNotes>
   </metadata>
   <files>
