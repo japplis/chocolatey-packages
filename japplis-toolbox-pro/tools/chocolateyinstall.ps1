@@ -8,7 +8,7 @@ $packageArgs = @{
   fileType      = 'EXE'
   file          = $fileLocation
   softwareName  = 'Japplis Toolbox Pro*'
-  checksum      = '2e3ff8d6d0916a868bb2ec966b58c38c566ba1397e9398788e47c9a063ef38cf'
+  checksum      = '9cef4e9929ce2cdd54fc46476ce42bdf3faf25374b3d2f3922ea07f34d2a6626'
   checksumType  = 'sha256'
   silentArgs    = "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP- /LOG=`"$($env:TEMP)\$($env:chocolateyPackageName).$($env:chocolateyPackageVersion).InnoInstall.log`""
   validExitCodes= @(0,3010,1641)
