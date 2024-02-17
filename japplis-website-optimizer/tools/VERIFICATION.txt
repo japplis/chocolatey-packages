@@ -3,7 +3,7 @@ Package can be verified like this:
 
 1. Go to
 
-   x64: https://www.japplis.com/website-optimizer/versions/WebsiteOptimizer-4.1.exe
+   x64: https://www.japplis.com/website-optimizer/versions/WebsiteOptimizer-4.2.exe
 
    to download the installer.
 
@@ -11,7 +11,7 @@ Package can be verified like this:
    - Use powershell function 'Get-FileHash'
    - Use Chocolatey utility 'checksum.exe'
 
-    checksum64: 77663fd0bcf4ebe1ded7b6d02ce3f9a53d6f6114d7ca3412819df65bf3d14884
+    checksum64: b0ccc9329d491df5e66e55ee39d2ce20f549d51ac0d956be3ad45ec7ad005983
 
    Checksums type: sha256
 

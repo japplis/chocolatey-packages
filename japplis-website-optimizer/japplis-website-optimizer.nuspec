@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>japplis-website-optimizer</id>
-    <version>4.1</version>
+    <version>4.2</version>
     <owners>Anthony Goubard</owners>
 
     <title>Japplis Website Optimizer</title>
@@ -11,10 +11,10 @@
     <projectUrl>https://www.japplis.com/website-optimizer/</projectUrl>
     <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/japplis-website-optimizer/</packageSourceUrl>
     <iconUrl>https://www.japplis.com/website-optimizer/images/WebsiteOptimizer256.png</iconUrl>
-    <copyright>© 2008 - 2023 Japplis</copyright>
+    <copyright>© 2008 - 2024 Japplis</copyright>
     <licenseUrl>https://www.japplis.com/website-optimizer/license.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <tags>Website optimizer optimiser web site compress html css javascript optimisation optimization</tags>
+    <tags>website optimizer optimiser web site web pages compress html css javascript optimisation optimization</tags>
     <summary>Automate and reduce the size of your web site</summary>
     <description>
 ## Japplis Website Optimizer - Automate and reduce the size of your web site
