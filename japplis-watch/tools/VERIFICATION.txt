@@ -3,7 +3,7 @@ Package can be verified like this:
 
 1. Go to
 
-   x64: https://www.japplis.com/watch/versions/Watch-1.7.exe
+   x64: https://www.japplis.com/watch/versions/Watch-1.8.exe
 
    to download the installer.
 
@@ -11,7 +11,7 @@ Package can be verified like this:
    - Use powershell function 'Get-FileHash'
    - Use Chocolatey utility 'checksum.exe'
 
-    checksum64: e2353d6538d6cc8aa50cd8f8ba2496eed786213206987aa69a287574e9496f06
+    checksum64: 1d39d2fb58eeabca5235073f999c0c6d9ebfed29fd77df8ba8f46ce94036a2ca
 
    Checksums type: sha256
 
