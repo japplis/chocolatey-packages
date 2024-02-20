@@ -3,7 +3,7 @@ Package can be verified like this:
 
 1. Go to
 
-   x64: https://www.japplis.com/sheet-stats/versions/SheetStats-1.0.exe
+   x64: https://www.japplis.com/sheet-stats/versions/SheetStats-1.1.exe
 
    to download the installer.
 
@@ -11,7 +11,7 @@ Package can be verified like this:
    - Use powershell function 'Get-FileHash'
    - Use Chocolatey utility 'checksum.exe'
 
-    checksum64: 8f46ca5f4eeacabf0fafd4fc4fd30c9c3a2e8b3460bac5389cb8e9999ddfc235
+    checksum64: 99d24a4da4bb88698e9b22fba29614b928578974a2c59b6e839f3338368c3e92
 
    Checksums type: sha256
 
