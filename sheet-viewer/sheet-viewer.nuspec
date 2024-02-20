@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>sheet-viewer</id>
-    <version>1.0</version>
+    <version>1.1</version>
     <owners>Anthony Goubard</owners>
 
     <title>Sheet Viewer</title>
@@ -11,7 +11,7 @@
     <projectUrl>https://www.japplis.com/sheet-viewer/</projectUrl>
     <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/sheet-viewer/</packageSourceUrl>
     <iconUrl>https://www.japplis.com/sheet-viewer/images/SheetViewer256.png</iconUrl>
-    <copyright>© 2022 - 2023 Japplis</copyright>
+    <copyright>© 2022 - 2024 Japplis</copyright>
     <licenseUrl>https://www.japplis.com/sheet-viewer/license.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <tags>excel spreadsheet sheet workbook csv on top transparent translucent partial refresh notification</tags>
