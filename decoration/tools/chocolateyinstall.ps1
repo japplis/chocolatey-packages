@@ -8,7 +8,7 @@ $packageArgs = @{
   fileType      = 'EXE'
   file          = $fileLocation
   softwareName  = 'Decoration*'
-  checksum      = '6ae60af1b9fb48c33be90f013c9295c264057635311ef392049168d1a617d504'
+  checksum      = '05a1b00a370ecb6783b0f6ebd6dd13fea4e82835b3de8e3cb024af5379386a8e'
   checksumType  = 'sha256'
   silentArgs    = "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP- /LOG=`"$($env:TEMP)\$($env:chocolateyPackageName).$($env:chocolateyPackageVersion).InnoInstall.log`""
   validExitCodes= @(0,3010,1641)

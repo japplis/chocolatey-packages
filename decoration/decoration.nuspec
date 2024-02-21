@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>decoration</id>
-    <version>5.2</version>
+    <version>5.3</version>
     <owners>Anthony Goubard</owners>
 
     <title>Decoration</title>
@@ -11,7 +11,7 @@
     <projectUrl>https://www.japplis.com/decoration/</projectUrl>
     <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/decoration/</packageSourceUrl>
     <iconUrl>https://www.japplis.com/decoration/images/Decoration256.png</iconUrl>
-    <copyright>© 2007 - 2023 Japplis</copyright>
+    <copyright>© 2007 - 2024 Japplis</copyright>
     <licenseUrl>https://www.japplis.com/decoration/license.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <tags>decoration image photo effect filter batch manipulation picture editor shadow mirror border frame</tags>
