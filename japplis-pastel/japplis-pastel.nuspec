@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>japplis-pastel</id>
-    <version>1.1</version>
+    <version>1.2</version>
     <owners>Anthony Goubard</owners>
 
     <title>Japplis Pastel</title>
@@ -11,7 +11,7 @@
     <projectUrl>https://www.japplis.com/decoration/pastel/</projectUrl>
     <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/japplis-pastel/</packageSourceUrl>
     <iconUrl>https://www.japplis.com/decoration/pastel/images/Pastel256.png</iconUrl>
-    <copyright>© 2011 - 2023 Japplis</copyright>
+    <copyright>© 2011 - 2024 Japplis</copyright>
     <licenseUrl>https://www.japplis.com/decoration/pastel/license.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <tags>pastel effects image photo frame filter</tags>

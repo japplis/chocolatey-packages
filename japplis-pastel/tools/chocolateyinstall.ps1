@@ -8,7 +8,7 @@ $packageArgs = @{
   fileType      = 'EXE'
   file          = $fileLocation
   softwareName  = 'Japplis Pastel*'
-  checksum      = 'f878c1a16037ebb0b13a80541dce3f5ae073b3439fd1f2a31fb009fe3be0a7e9'
+  checksum      = '54486387ae6ea6abd92decc093650e56e00547e26e99f782bc184be691b95a05'
   checksumType  = 'sha256'
   silentArgs    = "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP- /LOG=`"$($env:TEMP)\$($env:chocolateyPackageName).$($env:chocolateyPackageVersion).InnoInstall.log`""
   validExitCodes= @(0,3010,1641)
