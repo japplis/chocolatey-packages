@@ -3,7 +3,7 @@ Package can be verified like this:
 
 1. Go to
 
-   x64: https://www.japplis.com/poster-font/light/versions/PosterFontLight-1.0.exe
+   x64: https://www.japplis.com/poster-font/light/versions/PosterFontLight-1.1.exe
 
    to download the installer.
 
@@ -11,7 +11,7 @@ Package can be verified like this:
    - Use powershell function 'Get-FileHash'
    - Use Chocolatey utility 'checksum.exe'
 
-    checksum64: fb355df35ca1f7a466cc224e6ecc3db08de67048d3e92024fa079b0d5aafd682
+    checksum64: b544cea915855dd84b11aaa65f8a5293bf9f5d023963d5ffb11f3fc7bfbc7b0a
 
    Checksums type: sha256
 

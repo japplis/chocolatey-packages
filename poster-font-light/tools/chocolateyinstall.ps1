@@ -8,7 +8,7 @@ $packageArgs = @{
   fileType      = 'EXE'
   file          = $fileLocation
   softwareName  = 'Poster Font Light*'
-  checksum      = 'fb355df35ca1f7a466cc224e6ecc3db08de67048d3e92024fa079b0d5aafd682'
+  checksum      = 'b544cea915855dd84b11aaa65f8a5293bf9f5d023963d5ffb11f3fc7bfbc7b0a'
   checksumType  = 'sha256'
   silentArgs    = "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP- /LOG=`"$($env:TEMP)\$($env:chocolateyPackageName).$($env:chocolateyPackageVersion).InnoInstall.log`""
   validExitCodes= @(0,3010,1641)

@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>poster-font-light</id>
-    <version>1.0</version>
+    <version>1.1</version>
     <owners>Anthony Goubard</owners>
 
     <title>Poster Font Light</title>
@@ -11,10 +11,10 @@
     <projectUrl>https://www.japplis.com/poster-font/light/</projectUrl>
     <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/poster-font-light/</packageSourceUrl>
     <iconUrl>https://www.japplis.com/poster-font/light/images/PosterFontLight256.png</iconUrl>
-    <copyright>© 2011 - 2023 Japplis</copyright>
+    <copyright>© 2011 - 2024 Japplis</copyright>
     <licenseUrl>https://www.japplis.com/poster-font/light/license.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <tags>font text title presentation poster</tags>
+    <tags>font text title presentation poster banner outline</tags>
     <summary>Easily create beautiful titles</summary>
     <description>
 ## Poster Font Light - Easily create beautiful titles
