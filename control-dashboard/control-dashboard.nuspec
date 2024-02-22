@@ -3,21 +3,26 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>control-dashboard</id>
-    <version>1.0</version>
+    <version>1.1</version>
     <owners>Anthony Goubard</owners>
 
     <title>Control Dashboard</title>
     <authors>Japplis</authors>
-    <projectUrl>https://www.japplis.com/control-dashboard</projectUrl>
-    <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/control-dashboard</packageSourceUrl>
+    <projectUrl>https://www.japplis.com/control-dashboard/</projectUrl>
+    <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/control-dashboard/</packageSourceUrl>
     <iconUrl>https://www.japplis.com/control-dashboard/images/ControlDashboard256.png</iconUrl>
-    <copyright>2021 - 2023 Japplis</copyright>
+    <copyright>© 2021 - 2024 Japplis</copyright>
     <licenseUrl>https://www.japplis.com/control-dashboard/license.txt</licenseUrl>
-    <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <tags>monitor monitoring network file schedule website alerting</tags>
-    <summary>Control Dashboard - Monitor and control dashboard</summary>
-    <description>Monitor resources such as files and websites dashboard</description>
-    <releaseNotes>https://www.japplis.com/control-dashboard/changes.txt</releaseNotes>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>monitor monitoring network file schedule website alerting dashboard status</tags>
+    <summary>Monitor and control dashboard</summary>
+    <description>
+## Control Dashboard - Monitor and control dashboard
+
+![Screenshot of Control Dashboard](https://www.japplis.com/control-dashboard/images/control-dashboard-screenshot.png)
+
+Monitor resources such as files and websites dashboard. Leave the window always on top and translucent. Run it also embedded in your IDE like IntelliJ IDEA, Android Studio or Eclipse.</description>
+    <releaseNotes>See https://www.japplis.com/control-dashboard/changes.txt</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
