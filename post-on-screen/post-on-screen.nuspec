@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>post-on-screen</id>
-    <version>1.1</version>
+    <version>1.2</version>
     <owners>Anthony Goubard</owners>
 
     <title>Post On Screen</title>
@@ -11,10 +11,10 @@
     <projectUrl>https://www.japplis.com/post-on-screen/</projectUrl>
     <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/post-on-screen/</packageSourceUrl>
     <iconUrl>https://www.japplis.com/post-on-screen/images/PostOnScreen256.png</iconUrl>
-    <copyright>© 2021 - 2023 Japplis</copyright>
+    <copyright>© 2021 - 2024 Japplis</copyright>
     <licenseUrl>https://www.japplis.com/post-on-screen/license.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <tags>text font above gradient transparent translucent</tags>
+    <tags>text font above on top gradient transparent translucent watermark</tags>
     <summary>Display text on your screens</summary>
     <description>
 ## Post On Screen - Display text on your screens
