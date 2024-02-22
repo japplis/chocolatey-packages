@@ -3,21 +3,41 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>control-dashboard-pro</id>
-    <version>1.0</version>
+    <version>1.1</version>
     <owners>Anthony Goubard</owners>
 
     <title>Control Dashboard Pro</title>
     <authors>Japplis</authors>
-    <projectUrl>https://www.japplis.com/control-dashboard/pro</projectUrl>
-    <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/control-dashboard-pro</packageSourceUrl>
+    <projectUrl>https://www.japplis.com/control-dashboard/pro/</projectUrl>
+    <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/control-dashboard-pro/</packageSourceUrl>
     <iconUrl>https://www.japplis.com/control-dashboard/pro/images/ControlDashboardPro256.png</iconUrl>
-    <copyright>2021 - 2023 Japplis</copyright>
+    <copyright>© 2021 - 2024 Japplis</copyright>
     <licenseUrl>https://www.japplis.com/control-dashboard/pro/license.txt</licenseUrl>
-    <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <tags>monitor monitoring network file schedule website alerting</tags>
-    <summary>Control Dashboard Pro - Monitor and control dashboard</summary>
-    <description>Monitor resources such as files and websites dashboardShareware: Fully functional for one day, then limited features.</description>
-    <releaseNotes>https://www.japplis.com/control-dashboard/pro/changes.txt</releaseNotes>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>monitor monitoring network file schedule website alerting dashboard status http gui</tags>
+    <summary>Monitor and control dashboard</summary>
+    <description>
+## Control Dashboard Pro - Monitor and control dashboard
+
+![Screenshot of Control Dashboard Pro](https://www.japplis.com/control-dashboard/pro/images/control-dashboard-pro-screenshot.png)
+
+Advanced monitoring of resources such as files and websites dashboard. 
+* Leave the window always on top and translucent. 
+* Run it embedded in your IDE like IntelliJ IDEA, Android Studio or Eclipse. 
+* Import and export controls
+* Show execution history
+* Group controls with fail group if one fails or if all fail
+* Beep or show application when control fails
+* Advanced scheduling of monitoring
+* File exsits or not
+* File modified
+* File execution and check output
+* HTTP Get support
+* HTTP Post support
+* Support of HTTP headers and cookies
+        
+Shareware: Fully functional for one day, then limited features.</description>
+    <releaseNotes>See https://www.japplis.com/control-dashboard/pro/changes.txt</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
