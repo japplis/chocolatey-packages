@@ -3,7 +3,7 @@ Package can be verified like this:
 
 1. Go to
 
-   x64: https://www.japplis.com/screen-highlighter/pro/versions/ScreenHighlighterPro-1.0.exe
+   x64: https://www.japplis.com/screen-highlighter/pro/versions/ScreenHighlighterPro-1.1.exe
 
    to download the installer.
 
@@ -11,7 +11,7 @@ Package can be verified like this:
    - Use powershell function 'Get-FileHash'
    - Use Chocolatey utility 'checksum.exe'
 
-    checksum64: b60bf0ee7a085475dd9bf37a67c3cdae02fafe512df1d255328716ad02bfe049
+    checksum64: 9a2fa89505a35bbd6b7356a1900589e0a9976ebe400e41946cfdd0de140a830c
 
    Checksums type: sha256
 
