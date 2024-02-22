@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>post-on-screen-pro</id>
-    <version>1.1</version>
+    <version>1.2</version>
     <owners>Anthony Goubard</owners>
 
     <title>Post On Screen Pro</title>
@@ -11,10 +11,10 @@
     <projectUrl>https://www.japplis.com/post-on-screen/pro/</projectUrl>
     <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/post-on-screen-pro/</packageSourceUrl>
     <iconUrl>https://www.japplis.com/post-on-screen/pro/images/PostOnScreenPro256.png</iconUrl>
-    <copyright>© 2021 - 2023 Japplis</copyright>
+    <copyright>© 2021 - 2024 Japplis</copyright>
     <licenseUrl>https://www.japplis.com/post-on-screen/pro/license.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <tags>font text image photo on top above gradient transparent translucent</tags>
+    <tags>font text image photo on top above gradient transparent translucent watermark logo</tags>
     <summary>Display texts and images on top of your screens</summary>
     <description>
 ## Post On Screen Pro - Display texts and images on top of your screens

@@ -8,7 +8,7 @@ $packageArgs = @{
   fileType      = 'EXE'
   file          = $fileLocation
   softwareName  = 'Post On Screen Pro*'
-  checksum      = '707dfc29a2f4af026f94cfdc73249c1acbe4a97c95e7d0fb9198569a428c35af'
+  checksum      = 'd35fbe7151e560bc16c0029b28e0ffb587fdeaf878253257cd5330a315cf7d8d'
   checksumType  = 'sha256'
   silentArgs    = "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP- /LOG=`"$($env:TEMP)\$($env:chocolateyPackageName).$($env:chocolateyPackageVersion).InnoInstall.log`""
   validExitCodes= @(0,3010,1641)
