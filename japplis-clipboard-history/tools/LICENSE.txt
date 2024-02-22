@@ -6,7 +6,8 @@ Japplis Clipboard History is freeware.
 
 You may copy or distribute Japplis Clipboard History provided
 that it's an unmodified and complete version, as downloaded from
-https://www.japplis.com/clipboard-history/
+https://www.japplis.com/clipboard-history/ or from Chocolatey package manager or from the
+Mac App Store or from Microsoft Store.
 
 It is not allowed to use Japplis Clipboard History or its data in a SaaS (Software as a
 Service) or as a library of another software.

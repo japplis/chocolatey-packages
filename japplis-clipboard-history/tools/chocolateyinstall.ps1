@@ -8,7 +8,7 @@ $packageArgs = @{
   fileType      = 'EXE'
   file          = $fileLocation
   softwareName  = 'Japplis Clipboard History*'
-  checksum      = 'a49127544e48b76a13e8eb0c8a2cc16ced7159efc558756930b5d8fbd5c4e2da'
+  checksum      = '46e9c318fc5d996b7adb32b7dd44fa1839e8eb5b6ca6398635e5da00249a98d8'
   checksumType  = 'sha256'
   silentArgs    = "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP- /LOG=`"$($env:TEMP)\$($env:chocolateyPackageName).$($env:chocolateyPackageVersion).InnoInstall.log`""
   validExitCodes= @(0,3010,1641)

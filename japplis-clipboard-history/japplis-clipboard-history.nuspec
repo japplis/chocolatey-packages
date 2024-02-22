@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>japplis-clipboard-history</id>
-    <version>1.0</version>
+    <version>1.1</version>
     <owners>Anthony Goubard</owners>
 
     <title>Japplis Clipboard History</title>
@@ -11,10 +11,10 @@
     <projectUrl>https://www.japplis.com/clipboard-history/</projectUrl>
     <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/japplis-clipboard-history/</packageSourceUrl>
     <iconUrl>https://www.japplis.com/clipboard-history/images/ClipboardHistory256.png</iconUrl>
-    <copyright>© 2023 Japplis</copyright>
+    <copyright>© 2023 - 2024 Japplis</copyright>
     <licenseUrl>https://www.japplis.com/clipboard-history/license.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <tags>copy paste clipboard history</tags>
+    <tags>copy paste clipboard history text</tags>
     <summary>Show Text Clipboard History</summary>
     <description>
 ## Japplis Clipboard History - Show Text Clipboard History
