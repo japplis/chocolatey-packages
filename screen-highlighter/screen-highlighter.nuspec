@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>screen-highlighter</id>
-    <version>1.0</version>
+    <version>1.1</version>
     <owners>Anthony Goubard</owners>
 
     <title>Screen Highlighter</title>
@@ -11,7 +11,7 @@
     <projectUrl>https://www.japplis.com/screen-highlighter/</projectUrl>
     <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/screen-highlighter/</packageSourceUrl>
     <iconUrl>https://www.japplis.com/screen-highlighter/images/ScreenHighlighter256.png</iconUrl>
-    <copyright>© 2020 - 2023 Japplis</copyright>
+    <copyright>© 2020 - 2024 Japplis</copyright>
     <licenseUrl>https://www.japplis.com/screen-highlighter/license.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <tags>screen overlay presentation hide hiding superpose highlight</tags>

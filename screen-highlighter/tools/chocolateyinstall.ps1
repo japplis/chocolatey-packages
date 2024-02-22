@@ -8,7 +8,7 @@ $packageArgs = @{
   fileType      = 'EXE'
   file          = $fileLocation
   softwareName  = 'Screen Highlighter*'
-  checksum      = 'e1741fc71c634face6e94f01512d7ce34887c87a4a47a62be3a8bf7bfc5636fd'
+  checksum      = '2c9367f06aa74574e2f1a87d23d5c6107038cdd68ec32b612da866ae09835520'
   checksumType  = 'sha256'
   silentArgs    = "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP- /LOG=`"$($env:TEMP)\$($env:chocolateyPackageName).$($env:chocolateyPackageVersion).InnoInstall.log`""
   validExitCodes= @(0,3010,1641)
