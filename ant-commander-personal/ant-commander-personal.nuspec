@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>ant-commander-personal</id>
+    <version>4.6</version>
+    <owners>Anthony Goubard</owners>
+
+    <title>Ant Commander Personal</title>
+    <authors>Japplis</authors>
+    <projectUrl>https://www.antcommander.com/personal/</projectUrl>
+    <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/ant-commander-personal/</packageSourceUrl>
+    <iconUrl>https://www.antcommander.com/personal/images/AntCommander256.png</iconUrl>
+    <copyright>© 2004 - 2024 Japplis</copyright>
+    <licenseUrl>https://www.antcommander.com/personal/license.txt</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>Ant Commander</tags>
+    <summary>Personal file manager</summary>
+    <description>
+## Ant Commander Personal - Personal file manager
+
+![Screenshot of Ant Commander Personal](https://www.antcommander.com/personal/images/ant-commander-screenshot.png)
+
+</description>
+    <releaseNotes>See https://www.antcommander.com/personal/changes.txt</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
