@@ -8,7 +8,7 @@ $packageArgs = @{
   fileType      = 'EXE'
   file          = $fileLocation
   softwareName  = 'Screenshot Crop*'
-  checksum      = '3c25b92fd54b62174df3b8e3da3b77a988c78bff4b02e50de9e77524d276876c'
+  checksum      = 'b129942ee8bdd667bc003f5c142e38eb57512b2a442566f57b5a86316e62580a'
   checksumType  = 'sha256'
   silentArgs    = "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP- /LOG=`"$($env:TEMP)\$($env:chocolateyPackageName).$($env:chocolateyPackageVersion).InnoInstall.log`""
   validExitCodes= @(0,3010,1641)

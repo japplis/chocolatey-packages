@@ -3,7 +3,7 @@ Package can be verified like this:
 
 1. Go to
 
-   x64: https://www.japplis.com/screenshot-crop/versions/ScreenshotCrop-1.0.exe
+   x64: https://www.japplis.com/screenshot-crop/versions/ScreenshotCrop-1.1.exe
 
    to download the installer.
 
@@ -11,7 +11,7 @@ Package can be verified like this:
    - Use powershell function 'Get-FileHash'
    - Use Chocolatey utility 'checksum.exe'
 
-    checksum64: 3c25b92fd54b62174df3b8e3da3b77a988c78bff4b02e50de9e77524d276876c
+    checksum64: b129942ee8bdd667bc003f5c142e38eb57512b2a442566f57b5a86316e62580a
 
    Checksums type: sha256
 
