@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>jlearnit</id>
-    <version>6.5</version>
+    <version>6.6</version>
     <owners>Anthony Goubard</owners>
 
     <title>JLearnIt</title>
@@ -11,10 +11,10 @@
     <projectUrl>https://www.jlearnit.com/</projectUrl>
     <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/jlearnit/</packageSourceUrl>
     <iconUrl>https://www.jlearnit.com/images/JLearnIt256.png</iconUrl>
-    <copyright>© 1998 - 2023 Japplis</copyright>
+    <copyright>© 1998 - 2024 Japplis</copyright>
     <licenseUrl>https://www.jlearnit.com/license.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <tags>JLearnIt learn vocabulary learn languages translator French English Dutch Spanish German</tags>
+    <tags>vocabulary learn languages translator dictionary multilingual French English Dutch Spanish German Italian Portuguese Swedish Danish</tags>
     <summary>Multilingual dictionary</summary>
     <description>
 ## JLearnIt - Multilingual dictionary
