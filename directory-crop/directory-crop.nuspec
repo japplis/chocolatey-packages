@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>directory-crop</id>
-    <version>1.0</version>
+    <version>1.1</version>
     <owners>Anthony Goubard</owners>
 
     <title>Directory Crop</title>
@@ -11,10 +11,10 @@
     <projectUrl>https://www.japplis.com/directory-crop/</projectUrl>
     <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/directory-crop/</packageSourceUrl>
     <iconUrl>https://www.japplis.com/directory-crop/images/DirectoryCrop256.png</iconUrl>
-    <copyright>© 2023 Japplis</copyright>
+    <copyright>© 2023 - 2024 Japplis</copyright>
     <licenseUrl>https://www.japplis.com/directory-crop/license.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <tags>crop ai photo image select stable-diffusion cut trim snip prun extra-arm bad-hands remove</tags>
+    <tags>crop ai photo image select stable diffusion cut trim snip prun extra arm bad hands remove</tags>
     <summary>Quickly crop images in directory</summary>
     <description>
 ## Directory Crop - Quickly crop images in directory
