@@ -8,7 +8,7 @@ $packageArgs = @{
   fileType      = 'EXE'
   file          = $fileLocation
   softwareName  = 'The Desktop Watchmaker Widget*'
-  checksum      = 'cae692be09df1a082635a9c3a69dcc2223aca83c66d7ffba5b6dca13bbc8ed55'
+  checksum      = 'a31b18e6ae15ea4e856067f8e58fb7e190a8898bccb1aa21f51891b294ed307f'
   checksumType  = 'sha256'
   silentArgs    = "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP- /LOG=`"$($env:TEMP)\$($env:chocolateyPackageName).$($env:chocolateyPackageVersion).InnoInstall.log`""
   validExitCodes= @(0,3010,1641)
