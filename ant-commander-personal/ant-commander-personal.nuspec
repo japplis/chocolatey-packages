@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>ant-commander-personal</id>
-    <version>4.6</version>
+    <version>4.7</version>
     <owners>Anthony Goubard</owners>
 
     <title>Ant Commander Personal</title>
@@ -14,14 +14,22 @@
     <copyright>© 2004 - 2024 Japplis</copyright>
     <licenseUrl>https://www.antcommander.com/personal/license.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <tags>Ant Commander</tags>
+    <tags>file manager file manager management disk explorer finder directory folder</tags>
     <summary>Personal file manager</summary>
     <description>
 ## Ant Commander Personal - Personal file manager
 
 ![Screenshot of Ant Commander Personal](https://www.antcommander.com/personal/images/ant-commander-screenshot.png)
 
-</description>
+Ant Commander Personal is a free personal file manager.
+
+Several file systems are suported: file, zip, tar.gz, bz2, ram.
+
+Several kinds of panels are available: directory table, directory tree, text editor, image viewer and command line.
+
+Several file operation are supported: copy, move, delete, create directory, zip and unzip.
+
+And more: skinnable, OS independent, bookmarks, history and breadcrumbs.</description>
     <releaseNotes>See https://www.antcommander.com/personal/changes.txt</releaseNotes>
   </metadata>
   <files>
