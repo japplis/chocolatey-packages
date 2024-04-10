@@ -8,7 +8,7 @@ $packageArgs = @{
   fileType      = 'EXE'
   file          = $fileLocation
   softwareName  = 'Applet Runner Pro*'
-  checksum      = '33ddad614116a0377e8bd06f5e34fd47430d4fc07258adcc1b8107cbcea188cf'
+  checksum      = '302c3ffd27359dbfd25838495f29d0ee46d07c81a351ad0ecafc1e4b97348e7f'
   checksumType  = 'sha256'
   silentArgs    = "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP- /LOG=`"$($env:TEMP)\$($env:chocolateyPackageName).$($env:chocolateyPackageVersion).InnoInstall.log`""
   validExitCodes= @(0,3010,1641)
