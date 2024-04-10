@@ -8,7 +8,7 @@ $packageArgs = @{
   fileType      = 'EXE'
   file          = $fileLocation
   softwareName  = 'VR Photo Converter*'
-  checksum      = '9b08eca98d93c6ca83ada5b1b238d11e80a634e36810cc82dccb4d81375e7547'
+  checksum      = '8c414aaf904ffe2ce579c7bc0861dee91c4ec8e5e488b0ff50c3fb2c7411aca0'
   checksumType  = 'sha256'
   silentArgs    = "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP- /LOG=`"$($env:TEMP)\$($env:chocolateyPackageName).$($env:chocolateyPackageVersion).InnoInstall.log`""
   validExitCodes= @(0,3010,1641)
