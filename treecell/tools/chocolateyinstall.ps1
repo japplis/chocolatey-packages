@@ -3,7 +3,7 @@ $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 $fileLocation = Join-Path $toolsDir 'Treecell.exe'
 
 $packageArgs = @{
-  packageName   = $env:ChocolateyPackageName
+  packageName   = 'treecell'
   unzipLocation = $toolsDir
   fileType      = 'exe'
   file          = $fileLocation
