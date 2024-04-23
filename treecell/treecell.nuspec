@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
-<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>treecell</id>
     <version>1.2</version>
@@ -10,7 +10,7 @@
     <authors>Japplis</authors>
     <projectUrl>https://www.japplis.com/treecell/</projectUrl>
     <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/treecell/</packageSourceUrl>
-    <iconUrl>https://www.japplis.com/treecell/images/Treecell256.png</iconUrl>
+    <iconUrl>https://www.japplis.com/treecell/images/Treecell128.png</iconUrl>
     <copyright>© 2022 - 2024 Japplis</copyright>
     <licenseUrl>https://www.japplis.com/treecell/license.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
