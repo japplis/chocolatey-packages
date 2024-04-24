@@ -3,14 +3,14 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>ant-commander-pro</id>
-    <version>4.8</version>
+    <version>4.8.0</version>
     <owners>Anthony Goubard</owners>
 
     <title>Ant Commander Pro</title>
     <authors>Japplis</authors>
     <projectUrl>https://www.antcommander.com/</projectUrl>
     <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/ant-commander-pro/</packageSourceUrl>
-    <iconUrl>https://www.antcommander.com/images/AntCommanderPro256.png</iconUrl>
+    <iconUrl>https://www.antcommander.com/images/AntCommanderPro128.png</iconUrl>
     <copyright>© 2004 - 2024 Japplis</copyright>
     <licenseUrl>https://www.antcommander.com/license.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
