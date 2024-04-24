@@ -3,14 +3,14 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>vr-photo-converter</id>
-    <version>2.2</version>
+    <version>2.2.0</version>
     <owners>Anthony Goubard</owners>
 
     <title>VR Photo Converter</title>
     <authors>Japplis</authors>
     <projectUrl>https://www.japplis.com/virtual-reality/vr-photo-converter/</projectUrl>
     <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/vr-photo-converter/</packageSourceUrl>
-    <iconUrl>https://www.japplis.com/virtual-reality/vr-photo-converter/images/VRPhotoConverter256.png</iconUrl>
+    <iconUrl>https://www.japplis.com/virtual-reality/vr-photo-converter/images/VRPhotoConverter128.png</iconUrl>
     <copyright>© 2019 - 2024 Japplis</copyright>
     <licenseUrl>https://www.japplis.com/virtual-reality/vr-photo-converter/license.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
