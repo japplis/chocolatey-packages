@@ -8,7 +8,7 @@ $packageArgs = @{
   fileType      = 'exe'
   file          = $fileLocation
   softwareName  = 'Ant Commander Pro*'
-  checksum      = '4b4d64807c99a9c54754445c61f02cb3b10f3a92d6fcfe498f3f3e0ab971459e'
+  checksum      = '78b06284e17670c26578da8d66cf384ea0d7b9a10b45b71ca8e4f01ef18bfe92'
   checksumType  = 'sha256'
   silentArgs    = "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP- /LOG=`"$($env:TEMP)\$($env:chocolateyPackageName).$($env:chocolateyPackageVersion).InnoInstall.log`""
   validExitCodes= @(0, 1641, 3010)
