@@ -9,7 +9,7 @@
     <title>Ant Commander Personal</title>
     <authors>Japplis</authors>
     <projectUrl>https://www.antcommander.com/personal/</projectUrl>
-    <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/ant-commander-personal/</packageSourceUrl>
+    <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/main/ant-commander-personal/</packageSourceUrl>
     <iconUrl>https://www.antcommander.com/personal/images/AntCommander128.png</iconUrl>
     <copyright>© 2004 - 2024 Japplis</copyright>
     <licenseUrl>https://www.antcommander.com/personal/license.txt</licenseUrl>
