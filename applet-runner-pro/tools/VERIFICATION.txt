@@ -3,7 +3,7 @@ Package can be verified like this:
 
 1. Go to
 
-   x64: https://www.japplis.com/applet-runner/pro/versions/AppletRunnerPro-2.11.exe
+   x64: https://www.japplis.com/applet-runner/pro/versions/AppletRunnerPro-2.12.exe
 
    to download the installer.
 
@@ -11,7 +11,7 @@ Package can be verified like this:
    - Use powershell function 'Get-FileHash'
    - Use Chocolatey utility 'checksum.exe'
 
-    checksum64: 7c6d3c63ebf1094506e4e8af6052cbd07427e6455e5588a3f748f4b168391b8c
+    checksum64: f85687d4e0c09db091ffa1819c8daa3d4db5269ff3c09ea05049f0863ea12eee
 
    Checksums type: sha256
 
