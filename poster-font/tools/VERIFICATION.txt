@@ -3,7 +3,7 @@ Package can be verified like this:
 
 1. Go to
 
-   x64: https://www.japplis.com/poster-font/versions/PosterFont-1.1.exe
+   x64: https://www.japplis.com/poster-font/versions/PosterFont-1.2.exe
 
    to download the installer.
 
@@ -11,7 +11,7 @@ Package can be verified like this:
    - Use powershell function 'Get-FileHash'
    - Use Chocolatey utility 'checksum.exe'
 
-    checksum64: 9ce0b0e6bb61f6075b5a17b9102431bf452481b623a32e1eb1508e4bc04a034a
+    checksum64: dc974af8d5c0e14a6f7a8547fa1d1cabcd712b14ed9e019bf97e1b6eaadd5f9c
 
    Checksums type: sha256
 
