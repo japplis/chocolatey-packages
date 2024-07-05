@@ -3,7 +3,7 @@ Package can be verified like this:
 
 1. Go to
 
-   x64: https://www.japplis.com/directory-crop/versions/DirectoryCrop-1.1.exe
+   x64: https://www.japplis.com/directory-crop/versions/DirectoryCrop-1.2.exe
 
    to download the installer.
 
@@ -11,7 +11,7 @@ Package can be verified like this:
    - Use powershell function 'Get-FileHash'
    - Use Chocolatey utility 'checksum.exe'
 
-    checksum64: fba7dc3ab76adb42bf17f6f424ec606a05ae67fd5516566dc5d50ffca35b6931
+    checksum64: 7702c8d2a4b2c0680494a20a01c889fc708e3f70fb3c31ec1e8b6e0aa6d594d8
 
    Checksums type: sha256
 
