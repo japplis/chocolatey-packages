@@ -3,7 +3,7 @@ Package can be verified like this:
 
 1. Go to
 
-   x64: https://www.japplis.com/sheet-viewer/versions/SheetViewer-1.1.exe
+   x64: https://www.japplis.com/sheet-viewer/versions/SheetViewer-1.2.exe
 
    to download the installer.
 
@@ -11,7 +11,7 @@ Package can be verified like this:
    - Use powershell function 'Get-FileHash'
    - Use Chocolatey utility 'checksum.exe'
 
-    checksum64: b5134c39dd8d8a7cabefe3be2d1a21708c90f6670943152fe00e479a2bd826bd
+    checksum64: 4c3ba23bc8f47ec0e884cd1b10be0a17b3ad10417a4f73fdf7ce37621d39fba6
 
    Checksums type: sha256
 
