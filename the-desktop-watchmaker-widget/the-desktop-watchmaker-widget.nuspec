@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
-<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>the-desktop-watchmaker-widget</id>
-    <version>1.2</version>
+    <version>1.3.0</version>
     <owners>Anthony Goubard</owners>
 
     <title>The Desktop Watchmaker Widget</title>
     <authors>Japplis</authors>
     <projectUrl>https://www.japplis.com/desktop-watchmaker/widget/</projectUrl>
-    <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/the-desktop-watchmaker-widget/</packageSourceUrl>
-    <iconUrl>https://www.japplis.com/desktop-watchmaker/widget/images/DesktopWatchmakerWidget256.png</iconUrl>
+    <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/main/the-desktop-watchmaker-widget/</packageSourceUrl>
+    <iconUrl>https://www.japplis.com/desktop-watchmaker/widget/images/DesktopWatchmakerWidget128.png</iconUrl>
     <copyright>© 2016 - 2024 Japplis</copyright>
     <licenseUrl>https://www.japplis.com/desktop-watchmaker/widget/license.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
