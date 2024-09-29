@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>ant-commander-personal</id>
-    <version>4.13.0</version>
+    <version>4.14.0</version>
     <owners>Anthony Goubard</owners>
 
     <title>Ant Commander Personal</title>
