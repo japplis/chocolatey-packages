@@ -6,8 +6,8 @@ Ant Commander Pro is a commercial software.
 
 You may copy or distribute Ant Commander Pro provided
 that it's an unmodified and complete version, as downloaded from
-https://www.antcommander.com/ or from Chocolatey package manager or from the
-Mac App Store or from Microsoft Store.
+https://www.antcommander.com/ or from Chocolatey package manager
+or from the Mac App Store or from Microsoft Store or from Canonical Snap Store.
 
 After the trial period or the free usage allowed per month, you need a 
 user license per user of the software. The same user license can
