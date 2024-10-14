@@ -4,7 +4,6 @@ $fileLocation = Join-Path $toolsDir 'JLearnIt.exe'
 
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
-  unzipLocation = $toolsDir
   fileType      = 'exe'
   file          = $fileLocation
   softwareName  = 'JLearnIt*'
