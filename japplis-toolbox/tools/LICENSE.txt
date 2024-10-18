@@ -6,8 +6,8 @@ Japplis Toolbox is freeware.
 
 You may copy or distribute Japplis Toolbox provided
 that it's an unmodified and complete version, as downloaded from
-https://www.japplis.com/toolbox/ or from Chocolatey package manager or from the
-Mac App Store or from Microsoft Store.
+https://www.japplis.com/toolbox/ or from Chocolatey package manager
+or from the Mac App Store or from Microsoft Store or from Canonical Snap Store.
 
 It is not allowed to use Japplis Toolbox or its data in a SaaS (Software as a
 Service) or as a library of another software.
