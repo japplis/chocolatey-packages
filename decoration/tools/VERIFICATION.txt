@@ -3,7 +3,7 @@ Package can be verified like this:
 
 1. Go to
 
-   x64: https://www.japplis.com/decoration/versions/Decoration-5.4.exe
+   x64: https://www.japplis.com/decoration/versions/Decoration-5.5.exe
 
    to download the installer.
 
@@ -11,7 +11,7 @@ Package can be verified like this:
    - Use powershell function 'Get-FileHash'
    - Use Chocolatey utility 'checksum.exe'
 
-    checksum64: 61d9a123de7a3f5efd8d423d9f3f09cb270c685c566f0435bb9c45fe61c2c78b
+    checksum64: 7e594abcfe5aeaeaed4ae6a841aade95a09f37322afbe5fbc7e10c4c38f22505
 
    Checksums type: sha256
 
