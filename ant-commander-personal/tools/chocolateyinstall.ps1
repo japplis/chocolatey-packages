@@ -4,7 +4,6 @@ $fileLocation = Join-Path $toolsDir 'AntCommander.exe'
 
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
-  unzipLocation = $toolsDir
   fileType      = 'exe'
   file          = $fileLocation
   softwareName  = 'Ant Commander Personal*'
