@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>applet-runner-pro</id>
-    <version>2.14.0</version>
+    <version>2.16.0</version>
     <owners>Anthony Goubard</owners>
 
     <title>Applet Runner Pro</title>
@@ -11,7 +11,7 @@
     <projectUrl>https://www.japplis.com/applet-runner/pro/</projectUrl>
     <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/main/applet-runner-pro/</packageSourceUrl>
     <iconUrl>https://www.japplis.com/applet-runner/pro/images/AppletRunnerPro128.png</iconUrl>
-    <copyright>© 2020 - 2024 Japplis</copyright>
+    <copyright>© 2020 - 2025 Japplis</copyright>
     <licenseUrl>https://www.japplis.com/applet-runner/pro/license.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <tags>applet runner viewer Java online IDE jnlp</tags>
