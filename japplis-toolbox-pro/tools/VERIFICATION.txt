@@ -3,7 +3,7 @@ Package can be verified like this:
 
 1. Go to
 
-   x64: https://www.japplis.com/toolbox/pro/versions/ToolboxPro-5.8.exe
+   x64: https://www.japplis.com/toolbox/pro/versions/ToolboxPro-5.9.exe
 
    to download the installer.
 
@@ -11,7 +11,7 @@ Package can be verified like this:
    - Use powershell function 'Get-FileHash'
    - Use Chocolatey utility 'checksum.exe'
 
-    checksum64: eae6390ecb8372d5bddc1ab48354349c23e56e5ef43ab0b25f0445207e1c71fd
+    checksum64: c96910ed4b57e04431d3e9fe81deb68ccf3d8de3bc7abe17726c5c075162fa7f
 
    Checksums type: sha256
 
