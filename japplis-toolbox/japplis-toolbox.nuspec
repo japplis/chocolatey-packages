@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>japplis-toolbox</id>
-    <version>5.8.0</version>
+    <version>5.9.0</version>
     <owners>Anthony Goubard</owners>
 
     <title>Japplis Toolbox</title>
@@ -11,7 +11,7 @@
     <projectUrl>https://www.japplis.com/toolbox/</projectUrl>
     <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/main/japplis-toolbox/</packageSourceUrl>
     <iconUrl>https://www.japplis.com/toolbox/images/Toolbox128.png</iconUrl>
-    <copyright>© 2009 - 2024 Japplis</copyright>
+    <copyright>© 2009 - 2025 Japplis</copyright>
     <licenseUrl>https://www.japplis.com/toolbox/license.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <tags>text utility url encoding decoding base64 md5 sha Java regular expressions codec</tags>
