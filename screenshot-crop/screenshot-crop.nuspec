@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>screenshot-crop</id>
-    <version>1.2.0</version>
+    <version>1.3.0</version>
     <owners>Anthony Goubard</owners>
 
     <title>Screenshot Crop</title>
@@ -11,7 +11,7 @@
     <projectUrl>https://www.japplis.com/screenshot-crop/</projectUrl>
     <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/main/screenshot-crop/</packageSourceUrl>
     <iconUrl>https://www.japplis.com/screenshot-crop/images/ScreenshotCrop128.png</iconUrl>
-    <copyright>© 2022 - 2024 Japplis</copyright>
+    <copyright>© 2022 - 2025 Japplis</copyright>
     <licenseUrl>https://www.japplis.com/screenshot-crop/license.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <tags>screenshot crop clipboard image capture region cut snip trim remove</tags>
