@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>treecell</id>
-    <version>1.3.0</version>
+    <version>1.4.0</version>
     <owners>Anthony Goubard</owners>
 
     <title>Treecell</title>
@@ -11,7 +11,7 @@
     <projectUrl>https://www.japplis.com/treecell/</projectUrl>
     <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/main/treecell/</packageSourceUrl>
     <iconUrl>https://www.japplis.com/treecell/images/Treecell128.png</iconUrl>
-    <copyright>© 2022 - 2024 Japplis</copyright>
+    <copyright>© 2022 - 2025 Japplis</copyright>
     <licenseUrl>https://www.japplis.com/treecell/license.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <tags>excel spreadsheet sheet tree hierarchy expand collapse pivot confidential chart graph heatmap</tags>
