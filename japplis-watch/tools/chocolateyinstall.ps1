@@ -4,7 +4,6 @@ $fileLocation = Join-Path $toolsDir 'Watch.exe'
 
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
-  unzipLocation = $toolsDir
   fileType      = 'exe'
   file          = $fileLocation
   softwareName  = 'Japplis Watch*'
