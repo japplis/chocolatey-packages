@@ -3,7 +3,7 @@ Package can be verified like this:
 
 1. Go to
 
-   x64: https://www.japplis.com/watch/pro/versions/WatchPro-1.9.exe
+   x64: https://www.japplis.com/watch/pro/versions/WatchPro-1.10.exe
 
    to download the installer.
 
@@ -11,7 +11,7 @@ Package can be verified like this:
    - Use powershell function 'Get-FileHash'
    - Use Chocolatey utility 'checksum.exe'
 
-    checksum64: 0f9c3bc4f74d6b4d1bfb4283b86713437a34fd0373e53087be810fbe5f548402
+    checksum64: fc717c1dfb44033928b525880d8e5e6adb38346663266f0ceb212b888c95faa5
 
    Checksums type: sha256
 

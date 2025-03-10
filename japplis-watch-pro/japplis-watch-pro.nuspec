@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>japplis-watch-pro</id>
-    <version>1.9.0</version>
+    <version>1.10.0</version>
     <owners>Anthony Goubard</owners>
 
     <title>Japplis Watch Pro</title>
@@ -11,7 +11,7 @@
     <projectUrl>https://www.japplis.com/watch/pro/</projectUrl>
     <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/main/japplis-watch-pro/</packageSourceUrl>
     <iconUrl>https://www.japplis.com/watch/pro/images/WatchPro128.png</iconUrl>
-    <copyright>© 2009 - 2024 Japplis</copyright>
+    <copyright>© 2009 - 2025 Japplis</copyright>
     <licenseUrl>https://www.japplis.com/watch/pro/license.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <tags>watch clock timer stopwatch alarm calendar timezone countdown date time pomodoro HIIT watchmaker</tags>
