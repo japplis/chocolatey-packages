@@ -3,7 +3,7 @@ Package can be verified like this:
 
 1. Go to
 
-   x64: https://www.jlearnit.com/versions/JLearnIt-6.7.exe
+   x64: https://www.jlearnit.com/versions/JLearnIt-6.8.exe
 
    to download the installer.
 
@@ -11,7 +11,7 @@ Package can be verified like this:
    - Use powershell function 'Get-FileHash'
    - Use Chocolatey utility 'checksum.exe'
 
-    checksum64: bd36b76aabf2d5330b71086ba7f0b2dc4825d2635c71cf22f4c9dacb703c3f78
+    checksum64: 21b5596d974648f605a3ae78dc433458c4b8cf55a34d2ca481fc1a9f5e096860
 
    Checksums type: sha256
 
