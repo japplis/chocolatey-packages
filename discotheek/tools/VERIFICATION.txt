@@ -3,7 +3,7 @@ Package can be verified like this:
 
 1. Go to
 
-   x64: https://www.japplis.com/discotheek/versions/Discotheek-1.5.exe
+   x64: https://www.japplis.com/discotheek/versions/Discotheek-1.6.exe
 
    to download the installer.
 
@@ -11,7 +11,7 @@ Package can be verified like this:
    - Use powershell function 'Get-FileHash'
    - Use Chocolatey utility 'checksum.exe'
 
-    checksum64: 1ad0be339a04441fbafcebe23fc7004ccf541ae5be632837d28272fbf93f61c1
+    checksum64: a052c1db37cfcd03c860aa084a6bb39b4a924a89263349e023b01a23a91f76ea
 
    Checksums type: sha256
 
