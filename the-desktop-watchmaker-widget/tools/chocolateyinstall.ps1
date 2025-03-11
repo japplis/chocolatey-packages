@@ -4,7 +4,6 @@ $fileLocation = Join-Path $toolsDir 'DesktopWatchmakerWidget.exe'
 
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
-  unzipLocation = $toolsDir
   fileType      = 'exe'
   file          = $fileLocation
   softwareName  = 'The Desktop Watchmaker Widget*'
