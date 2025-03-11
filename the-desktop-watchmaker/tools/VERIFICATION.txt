@@ -3,7 +3,7 @@ Package can be verified like this:
 
 1. Go to
 
-   x64: https://www.japplis.com/desktop-watchmaker/versions/DesktopWatchmaker-3.3.exe
+   x64: https://www.japplis.com/desktop-watchmaker/versions/DesktopWatchmaker-3.4.exe
 
    to download the installer.
 
@@ -11,7 +11,7 @@ Package can be verified like this:
    - Use powershell function 'Get-FileHash'
    - Use Chocolatey utility 'checksum.exe'
 
-    checksum64: ece4a145bac7b2b74adb04061b5886d37718e46f4866987330925c84f0f7af9a
+    checksum64: 34738b83b53af5cbf81389130cbd2dd6bd546c1fe4e1c2cccba2b7e5217ddf03
 
    Checksums type: sha256
 
