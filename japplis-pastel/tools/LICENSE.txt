@@ -4,7 +4,10 @@ LICENSE
 
 The Japplis Pastel application is a commercial software.
 
-You may not copy or distribute Japplis Pastel.
+You may copy or distribute Japplis Pastel provided
+that it's an unmodified and complete version, as downloaded from
+https://www.japplis.com/decoration/pastel/ or from Chocolatey package manager 
+or from the Mac App Store or from Microsoft Store or from Canonical Snap Store.
 
 Japplis grants you a non-transferable, non-exclusive right to use the software.
 You are not allowed to sell, license or sub-license to any third party.
