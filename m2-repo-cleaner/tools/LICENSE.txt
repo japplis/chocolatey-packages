@@ -6,8 +6,8 @@ M2 Repo Cleaner is freeware.
 
 You may copy or distribute M2 Repo Cleaner provided
 that it's an unmodified and complete version, as downloaded from
-https://www.antcommander.com/m2-repo-cleaner/ or from Chocolatey package manager or from the
-Mac App Store or from Microsoft Store.
+https://www.antcommander.com/m2-repo-cleaner/ or from Chocolatey package manager
+or from the Mac App Store or from Microsoft Store or from Canonical Snap Store.
 
 It is not allowed to use M2 Repo Cleaner or its data in a SaaS (Software as a
 Service) or as a library of another software.

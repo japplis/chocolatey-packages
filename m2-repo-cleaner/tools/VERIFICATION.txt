@@ -3,7 +3,7 @@ Package can be verified like this:
 
 1. Go to
 
-   x64: https://www.antcommander.com/m2-repo-cleaner/versions/M2RepoCleaner-1.0.exe
+   x64: https://www.antcommander.com/m2-repo-cleaner/versions/M2RepoCleaner-1.1.exe
 
    to download the installer.
 
@@ -11,7 +11,7 @@ Package can be verified like this:
    - Use powershell function 'Get-FileHash'
    - Use Chocolatey utility 'checksum.exe'
 
-    checksum64: a05ca11eaca247d01700832f35c0ba56ac1b3d361d3dcc239e7321173571eeec
+    checksum64: 83786127a9088dac0e30d2c6ef1e0b0c5d01e7b7a9b63773e5c9d83ea02f946b
 
    Checksums type: sha256
 

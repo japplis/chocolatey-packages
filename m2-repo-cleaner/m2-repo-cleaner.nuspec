@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
-<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>m2-repo-cleaner</id>
-    <version>1.0</version>
+    <version>1.1.0</version>
     <owners>Anthony Goubard</owners>
 
     <title>M2 Repo Cleaner</title>
     <authors>Japplis</authors>
     <projectUrl>https://www.antcommander.com/m2-repo-cleaner/</projectUrl>
-    <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/master/m2-repo-cleaner/</packageSourceUrl>
-    <iconUrl>https://www.antcommander.com/m2-repo-cleaner/images/M2RepoCleaner256.png</iconUrl>
-    <copyright>© 2022 - 2024 Japplis</copyright>
+    <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/main/m2-repo-cleaner/</packageSourceUrl>
+    <iconUrl>https://www.antcommander.com/m2-repo-cleaner/images/M2RepoCleaner128.png</iconUrl>
+    <copyright>© 2022 - 2025 Japplis</copyright>
     <licenseUrl>https://www.antcommander.com/m2-repo-cleaner/license.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <tags>maven m2 repository repo cleaner clean delete snapshots gradle clean up prune</tags>
