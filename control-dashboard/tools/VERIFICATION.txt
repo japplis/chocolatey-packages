@@ -3,7 +3,7 @@ Package can be verified like this:
 
 1. Go to
 
-   x64: https://www.japplis.com/control-dashboard/versions/ControlDashboard-1.1.exe
+   x64: https://www.japplis.com/control-dashboard/versions/ControlDashboard-1.2.exe
 
    to download the installer.
 
@@ -11,7 +11,7 @@ Package can be verified like this:
    - Use powershell function 'Get-FileHash'
    - Use Chocolatey utility 'checksum.exe'
 
-    checksum64: c4658b9944600b5a602035d5b51c30fd24f05a3766eeda939f05e0d07823ef5a
+    checksum64: 3fa55389be2307e3585d25a5f63dbf9439a61173e841aa4ff289cea551930e14
 
    Checksums type: sha256
 
