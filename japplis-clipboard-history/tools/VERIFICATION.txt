@@ -3,7 +3,7 @@ Package can be verified like this:
 
 1. Go to
 
-   x64: https://www.japplis.com/clipboard-history/versions/ClipboardHistory-1.1.exe
+   x64: https://www.japplis.com/clipboard-history/versions/ClipboardHistory-1.2.exe
 
    to download the installer.
 
@@ -11,7 +11,7 @@ Package can be verified like this:
    - Use powershell function 'Get-FileHash'
    - Use Chocolatey utility 'checksum.exe'
 
-    checksum64: 46e9c318fc5d996b7adb32b7dd44fa1839e8eb5b6ca6398635e5da00249a98d8
+    checksum64: 97adc066594240c857cc618fbe1ea582bf35097a6bde86b955105553bcd944ed
 
    Checksums type: sha256
 
