@@ -3,7 +3,7 @@ Package can be verified like this:
 
 1. Go to
 
-   x64: https://www.japplis.com/treecell/versions/Treecell-1.4.exe
+   x64: https://www.japplis.com/treecell/versions/Treecell-1.5.exe
 
    to download the installer.
 
@@ -11,7 +11,7 @@ Package can be verified like this:
    - Use powershell function 'Get-FileHash'
    - Use Chocolatey utility 'checksum.exe'
 
-    checksum64: a54f9b71e14c468b80d92b9d95169731d84a6cfe61574a19f08d40cbcd9276d1
+    checksum64: 6473e900c3d81f6b2d350051c2cd20abfad49494ec8691438ae0915f7979dc70
 
    Checksums type: sha256
 
