@@ -3,7 +3,7 @@ Package can be verified like this:
 
 1. Go to
 
-   x64: https://www.japplis.com/virtual-reality/vr-photo-converter/versions/VRPhotoConverter-2.3.exe
+   x64: https://www.japplis.com/virtual-reality/vr-photo-converter/versions/VRPhotoConverter-3.0.exe
 
    to download the installer.
 
@@ -11,7 +11,7 @@ Package can be verified like this:
    - Use powershell function 'Get-FileHash'
    - Use Chocolatey utility 'checksum.exe'
 
-    checksum64: ce8e630698682f00f0532afe3ca628bf7e8e430571d692be0a75b4bd9a8490bf
+    checksum64: cc2bc7ea92fdc6b09bfe6504e77d297bd6367f7ffd3f8ad126bc1cae9921582b
 
    Checksums type: sha256
 

@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>vr-photo-converter</id>
-    <version>2.3.0</version>
+    <version>3.0.0</version>
     <owners>Anthony Goubard</owners>
 
     <title>VR Photo Converter</title>
@@ -26,7 +26,7 @@ VR Photo Converter creates a stereo image from VR180 photos.
         It has the options of the left / right eye photo position, resolution, output format, field of view, output folder and output file name. 
         VR Photo Converter is availalble for Windows, macOS and Linux.
         
-        Freemium with 100 free processed images per month then a watermark is applied to the images.</description>
+        Freemium with 30 free processed images per month then a watermark is applied to the images.</description>
     <releaseNotes>See https://www.japplis.com/virtual-reality/vr-photo-converter/changes.txt</releaseNotes>
   </metadata>
   <files>
