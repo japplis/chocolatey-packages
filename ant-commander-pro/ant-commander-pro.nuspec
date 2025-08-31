@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>ant-commander-pro</id>
-    <version>5.5.0</version>
+    <version>5.6.0</version>
     <owners>Anthony Goubard</owners>
 
     <title>Ant Commander Pro</title>
