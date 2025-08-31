@@ -3,7 +3,7 @@ Package can be verified like this:
 
 1. Go to
 
-   x64: https://www.antcommander.com/personal/versions/AntCommander-5.5.exe
+   x64: https://www.antcommander.com/personal/versions/AntCommander-5.6.exe
 
    to download the installer.
 
@@ -11,7 +11,7 @@ Package can be verified like this:
    - Use powershell function 'Get-FileHash'
    - Use Chocolatey utility 'checksum.exe'
 
-    checksum64: 058767e98f8924fa378982d61f8bc632b80f1244acb65fe4ce56032f1a2844ef
+    checksum64: bc74c1f55421e3ec2bc49b5bbe225cbc4d15bcde3bedd9fad883844aaa0cf8c5
 
    Checksums type: sha256
 
