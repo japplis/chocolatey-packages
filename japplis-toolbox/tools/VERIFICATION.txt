@@ -3,7 +3,7 @@ Package can be verified like this:
 
 1. Go to
 
-   x64: https://www.japplis.com/toolbox/versions/Toolbox-6.0.exe
+   x64: https://www.japplis.com/toolbox/versions/Toolbox-6.1.exe
 
    to download the installer.
 

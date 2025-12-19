@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>japplis-toolbox</id>
-    <version>6.0.0</version>
+    <version>6.1.0</version>
     <owners>Anthony Goubard</owners>
 
     <title>Japplis Toolbox</title>
