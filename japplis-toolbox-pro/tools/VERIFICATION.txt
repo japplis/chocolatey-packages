@@ -3,7 +3,7 @@ Package can be verified like this:
 
 1. Go to
 
-   x64: https://www.japplis.com/toolbox/pro/versions/ToolboxPro-6.1.exe
+   x64: https://www.japplis.com/toolbox/pro/versions/ToolboxPro-6.1.1.exe
 
    to download the installer.
 
@@ -11,7 +11,7 @@ Package can be verified like this:
    - Use powershell function 'Get-FileHash'
    - Use Chocolatey utility 'checksum.exe'
 
-    checksum64: 4de65b544adcadbee393e5ad485506de33ecbfe821da35fee98add1470ea95bc
+    checksum64: ef9510e2f7960c0301e7782975c12426325b60691e61df63529936c40e9065e9
 
    Checksums type: sha256
 
