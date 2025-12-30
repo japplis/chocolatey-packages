@@ -3,7 +3,7 @@ Package can be verified like this:
 
 1. Go to
 
-   x64: https://www.japplis.com/tree-data-explorer/versions/TreeDataExplorer-1.4.exe
+   x64: https://www.japplis.com/tree-data-explorer/versions/TreeDataExplorer-1.4.1.exe
 
    to download the installer.
 
@@ -11,7 +11,7 @@ Package can be verified like this:
    - Use powershell function 'Get-FileHash'
    - Use Chocolatey utility 'checksum.exe'
 
-    checksum64: bd595ad8a6b25f2bc333f14329ab0801bdc6a6768fea4cc3819dff51ce528ddb
+    checksum64: 370348f988bf4bd5629d05e26b2e9c6b66e8f7b7f16f22a0da04356af5b4408f
 
    Checksums type: sha256
 
