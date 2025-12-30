@@ -3,7 +3,7 @@ Package can be verified like this:
 
 1. Go to
 
-   x64: https://www.japplis.com/toolbox/versions/Toolbox-6.1.exe
+   x64: https://www.japplis.com/toolbox/versions/Toolbox-6.1.1.exe
 
    to download the installer.
 
@@ -11,7 +11,7 @@ Package can be verified like this:
    - Use powershell function 'Get-FileHash'
    - Use Chocolatey utility 'checksum.exe'
 
-    checksum64: 67361c8ba8a0ab565838026d1f9d2359b8182121c4556d8b85eb25722a5a5ebb
+    checksum64: a8da302ff11b24aadf7decad2d5f106595522235a672f94c92d30d7f81027b58
 
    Checksums type: sha256
 
