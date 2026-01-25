@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>post-on-screen-pro</id>
-    <version>1.4.0</version>
+    <version>1.5.0</version>
     <owners>Anthony Goubard</owners>
 
     <title>Post On Screen Pro</title>
@@ -11,7 +11,7 @@
     <projectUrl>https://www.japplis.com/post-on-screen/pro/</projectUrl>
     <packageSourceUrl>https://github.com/japplis/chocolatey-packages/tree/main/post-on-screen-pro/</packageSourceUrl>
     <iconUrl>https://www.japplis.com/post-on-screen/pro/images/PostOnScreenPro128.png</iconUrl>
-    <copyright>© 2021 - 2025 Japplis</copyright>
+    <copyright>© 2021 - 2026 Japplis</copyright>
     <licenseUrl>https://www.japplis.com/post-on-screen/pro/license.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <tags>font text image photo on top above gradient transparent translucent watermark logo</tags>

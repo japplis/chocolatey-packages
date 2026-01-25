@@ -3,7 +3,7 @@ Package can be verified like this:
 
 1. Go to
 
-   x64: https://www.japplis.com/post-on-screen/pro/versions/PostOnScreenPro-1.4.exe
+   x64: https://www.japplis.com/post-on-screen/pro/versions/PostOnScreenPro-1.5.exe
 
    to download the installer.
 
@@ -11,7 +11,7 @@ Package can be verified like this:
    - Use powershell function 'Get-FileHash'
    - Use Chocolatey utility 'checksum.exe'
 
-    checksum64: 7b58431bbd12e52b0c649044999f5c8be82d805aab2be72080a3aabc7a421f27
+    checksum64: 9c333641cea6879ede6d11b37361f758394bb47222297ad27e02c1c3f6c14e5e
 
    Checksums type: sha256
 
